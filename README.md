@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="assets/1000014598.jpg" alt="Md. Golam Sarwar-E-Azam" width="180" style="border-radius:50%; border: 2px solid #ccc;" />
 
 # Md. Golam Sarwar-E-Azam  
 **Data Analyst | Business Intelligence Analyst**  
