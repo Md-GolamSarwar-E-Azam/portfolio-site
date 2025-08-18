@@ -12,16 +12,11 @@ Data Analyst with 4+ years of experience transforming complex data into actionab
   - Optimize reporting processes to save hours of manual work  
 
 #### Technical Skills: 
-#### Data Analysis & Visualization: 
-- Excel, Google Sheet, SQL (SQL Server, IBM Db2,
-- PostgreSQL, Big Query, MySQL), Power BI, Tableau, Google Data Studio, Python
-- [Pandas, NumPy, Matplotlib], MATLAB, Minitab
-#### Data Warehousing: 
-- SSIS, Azure Data Factory, Google Big Query
-#### Programming Language: 
-- Python
-#### Other Software: 
-- MS Word, Power Point, MS Visio, SolidWorks, Premiere Pro
+- Data Analysis | Excel, Google Sheet, SQL (SQL Server, IBM Db2, PostgreSQL, Big Query, MySQL),Python [Pan, NumPy, Matplotlib], MATLAB, Minitab
+- Visualization | Power BI, Tableau, Google Looker Studio, IBM Cognos
+- Data Warehousing | SSIS, Azure Data Factory, Google Big Query
+- Programming Language| Python
+- Other Software| MS Word, Power Point, MS Visio, SolidWorks, Premiere Pro
 
 ## Education
 - M.Sc., Computer Science & Engineering (Data Science) | United International University (_Ongoing, CGPA 3.72_)  
