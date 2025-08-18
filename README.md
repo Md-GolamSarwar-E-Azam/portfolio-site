@@ -67,7 +67,7 @@ Each project includes a **preview image**, **description**, and optional **dashb
 ---
 
 ### 📊 Pharmaceutical Prescription Analysis & Market Overview Dashboard  
-![Project Preview](images/Analysis.png)  
+<img src="images/Analysis.png" alt="Project Preview" width="600"/>  
 
 **Domain:** Pharma Analytics | **Region:** Bangladesh  
 
