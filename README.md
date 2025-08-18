@@ -70,59 +70,19 @@ Data Analyst with 4+ years of experience transforming complex data into actionab
 
   ---
 
-  ### 📊 Pharmaceutical Prescription Analysis & Market Overview Dashboard  
+  ## 📊 Pharmaceutical Prescription Analysis & Market Overview Dashboard  
   ![Project Preview](images/Analysis.png)  
   **Description:** 
   Project Summary:
   Domain: Pharma Analytics | Region: Bangladesh
   Developed a comprehensive, interactive dashboard for analyzing prescription trends and market dynamics in the pharmaceutical sector of Bangladesh. The multi-page report enables stakeholders to monitor market share,        brand   performance, prescriber behavior, competitor benchmarking, and untapped market opportunities—all within a single, unified platform.\
-  #Market Status Page
-  Provides a high-level view of market performance with company and therapeutic class breakdowns.
-  Company Market Share Donut Chart: Displays selected company’s market share (%) based on sales amount.
-  Top N Companies Bar Chart: Shows dynamic company rankings, controlled via a parameter.
-  Therapeutic Class Tree Map:
-  Shows sales amount by therapeutic class.
-  Clicking a class updates the company ranking to reflect performance within that class.
-  #Prescription Analysis Page
-  Enables drill-down exploration from division level to individual doctors and prescriptions.
-  Region-wise Market Map: Highlights market share and sales amount by division.
-  Company Overview Bar Chart: Ranks companies by sales and market share.
-  Therapeutic Class Dual-Axis Chart:
-  Axis 1: Market share (%)
-  Axis 2: Sales amount
-  Healthcare Type Donut Chart: Shows distribution between hospitals and clinics.
-  Medical Institution Overview: Bar chart displaying sales percentage by institution.
-  Brand Group Bubble Chart: Visualizes brand-wise market share and sales amount.
-  Specialty-wise Healthcare Breakdown: Examines specialties across healthcare types.
-  Prescribed Doctors Bar Chart:
-  Displays prescription quantity by doctor.
-  Interactive drill-down from division → company → brand → institution → doctor.
-  Filters cascade across visuals, enabling users to trace prescriptions down to individual doctors.
-  #Comparative Analysis Page
-  Supports side-by-side benchmarking between two selected companies.
-  Therapeutic Class Comparison (Bar Chart): Compares sales amount and percentage for each therapeutic class.
-  Division-Level Market Map (Dual View): Visualizes geographic performance for both companies by division.
-  Specialty-wise Healthcare Type Comparison:
-  Compares hospital vs clinic sales % by specialty type for each company.
-  Doctor Prescription Comparison:
-  Side-by-side doctor-level prescription volumes for both companies.
-  #Opportunity Analysis Page
-  Identifies brand placement gaps and market expansion potential.
-  Division Map: Displays total sales by division.
-  Sub-Division Map (Drill-Down): Clicking a division reveals all areas under it.
-  Top 5 Brands Tree Map:
-  Shows overall top brands if no division is selected.
-  Filters to top brands within a division upon selection.
-  Opportunity Table:
-  Lists each market with an "Opportunity" or "No Opportunity" tag.
-  Markets missing one or more top 5 brands are flagged with green gap indicators.
-  Brand gaps are displayed in columns on the right.
+  
   #💼 Business Value Delivered
   Enabled granular prescription tracking from national level to individual doctor level.
   Facilitated competitive benchmarking by product, geography, and specialty.
   Identified white-space markets and brand placement opportunities.
   Supported strategic planning and targeting for medical reps and marketing teams.
-  **Dashboard Link:** [View Dashboard]([dashboard_link_here](https://public.tableau.com/views/PrescriptionAnalysis_17555135714300/Status?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)) 
+   **Dashboard Link:** [View Dashboard](https://tinyurl.com/y7n376yy) | **GitHub Repo:** [View Code](github_repo_link_here) 
   ---
 
   ### 📊 Project Title 2  
