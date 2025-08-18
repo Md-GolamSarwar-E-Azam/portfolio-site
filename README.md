@@ -1,26 +1,27 @@
-# Data Analyst
+# Data Analyst | Business Intelligence Analyst
 
 ## 🔀 Toggle Section
 [**About Me**](#about-me) | [**Projects**](#projects)  
 ## About Me  
+Data Analyst with 4+ years of experience transforming complex data into actionable insights to support strategic business decisions and optimize performance. Skilled in SQL, Power BI, Tableau, and Python, with strong expertise in data modeling, ETL processes, and end-to-end dashboard development across multiple industries. Adept at collaborating with stakeholders to understand business needs and deliver data-driven solutions that improve efficiency and drive growth.
 
-  Hi there! 👋  
-
-  I am a **results-driven Data Analyst** with over 4+ years of experience delivering insights for **pharmaceutical, education, and manufacturing sectors**. I specialize in **dashboards, data pipelines, and BI solutions** that help businesses make better, faster decisions.  
-
-  ### 💡 What I Do Best  
+  ## 💡 What I Do Best  
   - Build **impactful dashboards** in Tableau & Power BI  
   - Develop **data warehouse & ETL pipelines** (SSIS, Azure Data Factory, BigQuery)  
   - Solve problems with **SQL, Python, and DAX**  
   - Optimize reporting processes to save hours of manual work  
 
 #### Technical Skills: 
-#### Data Analysis & Visualization: Excel, Google Sheet, SQL (SQL Server, IBM Db2,
-PostgreSQL, Big Query, MySQL), Power BI, Tableau, Google Data Studio, Python
-[Pandas, NumPy, Matplotlib], MATLAB, Minitab
-#### Data Warehousing: SSIS, Azure Data Factory, Google Big Query
-#### Programming Language: Python
-#### Other Software: MS Word, Power Point, MS Visio, SolidWorks, Premiere Pro
+#### Data Analysis & Visualization: 
+-Excel, Google Sheet, SQL (SQL Server, IBM Db2,
+-PostgreSQL, Big Query, MySQL), Power BI, Tableau, Google Data Studio, Python
+-[Pandas, NumPy, Matplotlib], MATLAB, Minitab
+#### Data Warehousing: 
+-SSIS, Azure Data Factory, Google Big Query
+#### Programming Language: 
+-Python
+#### Other Software: 
+-MS Word, Power Point, MS Visio, SolidWorks, Premiere Pro
 
 ## Education
 - M.Sc., Computer Science & Engineering (Data Science) | United International University (_Ongoing, CGPA 3.72_)  
