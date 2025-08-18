@@ -1,7 +1,8 @@
 # Data Analyst | Business Intelligence Analyst
 
 ## 🔀 Toggle Section
-[**About Me**](#about-me) | [**Portfolio Projects**](#projects)  
+[**About Me**](#about-me) | [**Portfolio Projects**](#portfolio-projects)
+
 ## About Me  
 Data Analyst with 4+ years of experience transforming complex data into actionable insights to support strategic business decisions and optimize performance. Skilled in SQL, Power BI, Tableau, and Python, with strong expertise in data modeling, ETL processes, and end-to-end dashboard development across multiple industries. Adept at collaborating with stakeholders to understand business needs and deliver data-driven solutions that improve efficiency and drive growth.
 
