@@ -73,11 +73,11 @@ Data Analyst with 4+ years of experience transforming complex data into actionab
   ## 📊 Pharmaceutical Prescription Analysis & Market Overview Dashboard  
   ![Project Preview](images/Analysis.png)  
   **Description:** 
-  Project Summary:
+  ## Project Summary:
   Domain: Pharma Analytics | Region: Bangladesh
   Developed a comprehensive, interactive dashboard for analyzing prescription trends and market dynamics in the pharmaceutical sector of Bangladesh. The multi-page report enables stakeholders to monitor market share,        brand   performance, prescriber behavior, competitor benchmarking, and untapped market opportunities—all within a single, unified platform.\
   
-  #💼 Business Value Delivered
+  ##💼 Business Value Delivered
   Enabled granular prescription tracking from national level to individual doctor level.
   Facilitated competitive benchmarking by product, geography, and specialty.
   Identified white-space markets and brand placement opportunities.
