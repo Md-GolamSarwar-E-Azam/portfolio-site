@@ -1,22 +1,6 @@
-readme: |
-  <div align="center">
-
-  ![Profile Image](images/1000014598.jpg)
-
-  # Md. Golam Sarwar-E-Azam  
-  **Data Analyst | Business Intelligence Analyst**  
-
-  📍 Dhaka, Bangladesh | 📧 golamsarwarkafi@gmail.com | 📞 +880 1714473666  
-  [LinkedIn](https://www.linkedin.com/in/golam-sarwar-e-azam) • [Credly](https://www.credly.com/users/md-golam-sarwar-e-azam) • [GitHub Portfolio Dashboards](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Dashboard-PDF-Files)  
-
-  </div>
-
-  ## 🔀 Toggle Pages  
-  [**About Me**](#about-me) | [**Projects**](#projects)  
-
-  ---
-
-  ## About Me  
+# Data Analyst
+[**About Me**](#about-me) | [**Projects**](#projects)  
+## About Me  
 
   Hi there! 👋  
 
@@ -28,54 +12,60 @@ readme: |
   - Solve problems with **SQL, Python, and DAX**  
   - Optimize reporting processes to save hours of manual work  
 
-  ---
+#### Technical Skills: 
+Data Analysis & Visualization: Excel, Google Sheet, SQL (SQL Server, IBM Db2,
+PostgreSQL, Big Query, MySQL), Power BI, Tableau, Google Data Studio, Python
+[Pandas, NumPy, Matplotlib], MATLAB, Minitab
+Data Warehousing: SSIS, Azure Data Factory, Google Big Query
+Programming Language: Python
+Other Software: MS Word, Power Point, MS Visio, SolidWorks, Premiere Pro
 
-  ### 🎓 Education  
-  - **M.Sc. in Computer Science & Engineering (Data Science)** – United International University *(Ongoing, CGPA 3.72/4.00)*  
-  - **B.Sc. in Industrial & Production Engineering** – Ahsanullah University of Science & Technology *(CGPA 3.67/4.00)*  
-  - **HSC (Science)** – Rajuk Uttara Model College *(GPA 5.00/5.00)*  
-  - **SSC (Science)** – Harimohan Govt. High School *(GPA 5.00/5.00)*  
+## Education
+- M.Sc., Computer Science & Engineering (Data Science) | United International University (_Ongoing, CGPA 3.72_)  
+- B.Sc., Industrial & Production Engineering | Ahsanullah University of Science & Technology (_2020, CGPA 3.67_)  
+- HSC (Science) | Rajuk Uttara Model College (_2014, GPA 5.00_)  
+- SSC (Science) | Harimohan Govt. High School (_2012, GPA 5.00_)
 
-  ---
+## Work Experience
+**Data Analyst @ VS One World (_Jan 2024 – Present_)**
+- Built Budget & Sales Dashboard for Square Pharma to aid strategic financial tracking  
+- Developed Marketing & Sales Dashboard for Radiant Pharma, improving campaign ROI by 20%  
+- Designed Sales Performance Dashboard for Paragon Group, boosting sales by 10%  
+- Leading development of Retail Audit KPI Dashboard for Luminaries Research  
+- **Tools & Tech:** Tableau, Power BI | **Languages:** SQL, Python, DAX
 
-  ### 💼 Professional Experience & Key Projects  
+**BI Analyst (Senior Executive) @ 10 Minute School (_Jun 2023 – Dec 2023_)**
+- Created Affiliate KPI Tracker Dashboard, boosting partner-driven sign-ups by 15%  
+- Built HSC Academic Dashboard, improving student retention by 12%  
+- Developed FB & Google Ads Dashboards to optimize digital marketing ROI  
+- Implemented GA4-based Traffic Dashboard to align sources with affiliate leads  
+- Designed Product Revenue Dashboard, increasing course revenue by 10%  
+- **Tools & Tech:** Google Cloud Platform, BigQuery, Google Data Studio, Metabase | **Languages:** MySQL, Python
 
-  **VS One World – Data Analyst (Jan 2024 – Present)**  
-  - Built Budget & Sales Dashboard for Square Pharma to support strategic financial tracking  
-  - Developed Marketing & Sales Dashboard for Radiant Pharma, improving campaign ROI by 20%  
-  - Designed Sales Performance Dashboard for Paragon Group, boosting sales by 10%  
-  - Leading Retail Audit KPI Dashboard development for Luminaries Research  
+**Data Analyst (Executive) @ Kaz Software (_Apr 2022 – May 2023_)**
+- Deployed data warehouse and ETL pipelines using SSIS, ADF, and Azure SQL for Japan Tobacco International  
+- Built Power BI dashboards monitoring daily efficiency across 60+ field locations  
+- Designed KPI tracker for JTI's Camel brand with full data modeling  
+- Enhanced In-Market Sales Dashboard, cutting data refresh time by 40%  
+- **Tools & Tech:** MS Azure SQL Server, SSMS, SSIS, Azure Data Factory, Visual Studio, Azure DevOps, Power BI Premium | **Languages:** T-SQL, M-Query, DAX
 
-  **10 Minute School – BI Analyst (Senior Executive) (Jun 2023 – Dec 2023)**  
-  - Created Affiliate KPI Tracker Dashboard, increasing partner sign-ups by 15%  
-  - Built HSC Academic Dashboard, improving student retention by 12%  
-  - Developed FB & Google Ads Campaign Dashboards to optimize marketing ROI  
-  - Designed GA4-based Traffic Dashboard linking sources with affiliate leads  
+**Assistant Executive (Data Cell) @ Epyllion Group (_Sep 2020 – Nov 2021_)**
+- Developed RMG database models & implemented ERP system on a new factory  
+- Pulled data from SQL Server & developed Power BI dashboards for monthly/quarterly/yearly KPIs  
+- Converted 10+ Excel dashboards to Power BI, cutting manual effort by ~60%  
 
-  **Kaz Software – Data Analyst (Executive) (Apr 2022 – May 2023)**  
-  - Developed data warehouse & ETL pipelines for Japan Tobacco International using SSIS, ADF, and Azure SQL  
-  - Built Power BI dashboards monitoring 60+ field locations  
-  - Created KPI tracker for Camel brand with full data modeling  
+## Certifications
+- IBM Data Analyst Professional Certificate  
+- Tableau Fundamentals, Intermediate, Advanced & Tableau Prep  
+- Power BI Data Analytics – 365datascience.com  
+- Machine Learning Specialization – Andrew Ng  
+- Databases and SQL for Data Science – Coursera  
+- Advanced SQL: Logical Query Processing – LinkedIn  
+- Python for Data Science, AI & Development – Coursera  
+- Statistics Foundation 1, 2 & 3 – LinkedIn  
 
-  **Epyllion Group – Assistant Executive (Data Cell) (Sep 2020 – Nov 2021)**  
-  - Developed RMG database models & implemented ERP system in new factory  
-  - Converted 10+ Excel dashboards to Power BI, reducing manual work by 60%  
 
-  ---
-
-  ### 📜 Certifications  
-  - IBM Data Analyst Professional Certificate  
-  - Tableau Fundamentals, Intermediate, Advanced & Tableau Prep  
-  - Power BI Data Analytics – 365datascience.com  
-  - Machine Learning Specialization – Andrew Ng  
-  - Databases and SQL for Data Science – Coursera  
-  - Advanced SQL: Logical Query Processing – LinkedIn  
-  - Python for Data Science, AI & Development – Coursera  
-  - Statistics Foundation 1, 2 & 3 – LinkedIn  
-
-  ---
-
-  ## Projects  
+## Projects  
 
   This section showcases my **portfolio projects** outside of regular job experience.  
 
@@ -103,3 +93,5 @@ readme: |
   **Dashboard Link:** [View Dashboard](dashboard_link_here) | **GitHub Repo:** [View Code](github_repo_link_here)  
 
   ---
+
+
