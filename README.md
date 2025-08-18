@@ -13,21 +13,19 @@ Data Analyst with 4+ years of experience transforming complex data into actionab
 
 #### Technical Skills: 
 #### Data Analysis & Visualization: 
--Excel, Google Sheet, SQL (SQL Server, IBM Db2,
--PostgreSQL, Big Query, MySQL), Power BI, Tableau, Google Data Studio, Python
--[Pandas, NumPy, Matplotlib], MATLAB, Minitab
+- Excel, Google Sheet, SQL (SQL Server, IBM Db2,
+- PostgreSQL, Big Query, MySQL), Power BI, Tableau, Google Data Studio, Python
+- [Pandas, NumPy, Matplotlib], MATLAB, Minitab
 #### Data Warehousing: 
--SSIS, Azure Data Factory, Google Big Query
+- SSIS, Azure Data Factory, Google Big Query
 #### Programming Language: 
--Python
+- Python
 #### Other Software: 
--MS Word, Power Point, MS Visio, SolidWorks, Premiere Pro
+- MS Word, Power Point, MS Visio, SolidWorks, Premiere Pro
 
 ## Education
 - M.Sc., Computer Science & Engineering (Data Science) | United International University (_Ongoing, CGPA 3.72_)  
 - B.Sc., Industrial & Production Engineering | Ahsanullah University of Science & Technology (_2020, CGPA 3.67_)  
-- HSC (Science) | Rajuk Uttara Model College (_2014, GPA 5.00_)  
-- SSC (Science) | Harimohan Govt. High School (_2012, GPA 5.00_)
 
 ## Work Experience
 **Data Analyst @ VS One World (_Jan 2024 – Present_)**
