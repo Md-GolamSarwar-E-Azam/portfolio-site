@@ -1,10 +1,12 @@
 # Data Analyst
+
+## 🔀 Toggle Section
 [**About Me**](#about-me) | [**Projects**](#projects)  
 ## About Me  
 
   Hi there! 👋  
 
-  I am a **results-driven Data Analyst** with over 3.5 years of experience delivering insights for **pharmaceutical, education, and manufacturing sectors**. I specialize in **dashboards, data pipelines, and BI solutions** that help businesses make better, faster decisions.  
+  I am a **results-driven Data Analyst** with over 4+ years of experience delivering insights for **pharmaceutical, education, and manufacturing sectors**. I specialize in **dashboards, data pipelines, and BI solutions** that help businesses make better, faster decisions.  
 
   ### 💡 What I Do Best  
   - Build **impactful dashboards** in Tableau & Power BI  
@@ -13,12 +15,12 @@
   - Optimize reporting processes to save hours of manual work  
 
 #### Technical Skills: 
-Data Analysis & Visualization: Excel, Google Sheet, SQL (SQL Server, IBM Db2,
+#### Data Analysis & Visualization: Excel, Google Sheet, SQL (SQL Server, IBM Db2,
 PostgreSQL, Big Query, MySQL), Power BI, Tableau, Google Data Studio, Python
 [Pandas, NumPy, Matplotlib], MATLAB, Minitab
-Data Warehousing: SSIS, Azure Data Factory, Google Big Query
-Programming Language: Python
-Other Software: MS Word, Power Point, MS Visio, SolidWorks, Premiere Pro
+#### Data Warehousing: SSIS, Azure Data Factory, Google Big Query
+#### Programming Language: Python
+#### Other Software: MS Word, Power Point, MS Visio, SolidWorks, Premiere Pro
 
 ## Education
 - M.Sc., Computer Science & Engineering (Data Science) | United International University (_Ongoing, CGPA 3.72_)  
@@ -65,7 +67,7 @@ Other Software: MS Word, Power Point, MS Visio, SolidWorks, Premiere Pro
 - Statistics Foundation 1, 2 & 3 – LinkedIn  
 
 
-## Projects  
+## Portfolio Projects  
 
   This section showcases my **portfolio projects** outside of regular job experience.  
 
