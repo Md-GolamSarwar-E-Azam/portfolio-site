@@ -1,10 +1,20 @@
 # Data Analyst | Business Intelligence Analyst
 
-## 🔀 Toggle Section
-[**About Me**](#about-me) | [**Portfolio Projects**](#portfolio-projects)
+## 🔀 Quick Navigation
+[**About Me**](#about-me) | [**Portfolio Projects**](#portfolio-projects) | [**Experience**](#-work-experience) | [**Skills**](#-technical-skills)
+
+---
 
 ## About Me
-Data Analyst with 4+ years of experience transforming complex data into actionable insights to support strategic business decisions and optimize performance. Skilled in SQL, Power BI, Tableau, and Python, with strong expertise in data modeling, ETL processes, and end-to-end dashboard development across multiple industries. Adept at collaborating with stakeholders to understand business needs and deliver data-driven solutions that improve efficiency and drive growth.
+Data Analyst with 4+ years of experience turning complex data into actionable insights. Skilled in SQL, Power BI, Tableau, and Python with strong expertise in data modeling, ETL processes, and dashboard development. Passionate about leveraging data to solve business problems and improve efficiency.
+
+## 💡 What I Do Best
+- Build **impactful dashboards** in Tableau & Power BI  
+- Develop **data warehouse & ETL pipelines** (SSIS, Azure Data Factory, BigQuery)  
+- Solve problems with **SQL, Python, and DAX**  
+- Optimize reporting processes to save hours of manual work  
+
+---
 
 ## 🛠️ Technical Skills
 - **Data Analysis**: Excel, Google Sheets, SQL (SQL Server, IBM Db2, PostgreSQL, BigQuery, MySQL), Python (Pandas, NumPy, Matplotlib), MATLAB, Minitab  
@@ -13,9 +23,13 @@ Data Analyst with 4+ years of experience transforming complex data into actionab
 - **Programming**: Python  
 - **Other Software**: MS Word, PowerPoint, MS Visio, SolidWorks, Premiere Pro  
 
+---
+
 ## 🎓 Education
 - **M.Sc., Computer Science & Engineering (Data Science)** | United International University (_Ongoing, CGPA 3.72_)  
 - **B.Sc., Industrial & Production Engineering** | Ahsanullah University of Science & Technology (_2020, CGPA 3.67_)  
+
+---
 
 ## 💼 Work Experience
 
@@ -46,6 +60,8 @@ Data Analyst with 4+ years of experience transforming complex data into actionab
 - Pulled data from SQL Server & developed Power BI dashboards for monthly/quarterly/yearly KPIs  
 - Converted 10+ Excel dashboards to Power BI, cutting manual effort by ~60%  
 
+---
+
 ## 📜 Certifications
 - IBM Data Analyst Professional Certificate  
 - Tableau Fundamentals, Intermediate, Advanced & Tableau Prep  
@@ -60,38 +76,48 @@ Data Analyst with 4+ years of experience transforming complex data into actionab
 
 ## 📂 Portfolio Projects  
 
-This section showcases my **portfolio projects** outside of regular job experience.  
+<details>
+  <summary>📊 Pharmaceutical Prescription Analysis & Market Overview Dashboard</summary>
 
-Each project includes a **preview image**, **description**, and optional **dashboard/GitHub link**.  
+  <img src="images/Analysis.png" alt="Project Preview" width="250" height="400"/>  
 
----
+  **Domain:** Pharma Analytics | **Region:** Bangladesh  
 
-### 📊 Pharmaceutical Prescription Analysis & Market Overview Dashboard  
-<img src="images/Analysis.png" alt="Project Preview" width="350" height="650"/> 
+  **Summary:**  
+  Developed a comprehensive, interactive dashboard for analyzing prescription trends and market dynamics in the pharmaceutical sector of Bangladesh. The multi-page report enables stakeholders to monitor market share, brand performance, prescriber behavior, competitor benchmarking, and untapped market opportunities—all within a single, unified platform.  
 
-**Domain:** Pharma Analytics | **Region:** Bangladesh  
+  **Business Value Delivered:**  
+  - Enabled granular prescription tracking from national level to individual doctor level  
+  - Facilitated competitive benchmarking by product, geography, and specialty  
+  - Identified white-space markets and brand placement opportunities  
+  - Supported strategic planning and targeting for medical reps and marketing teams  
 
-**Summary:**  
-Developed a comprehensive, interactive dashboard for analyzing prescription trends and market dynamics in the pharmaceutical sector of Bangladesh. The multi-page report enables stakeholders to monitor market share, brand performance, prescriber behavior, competitor benchmarking, and untapped market opportunities—all within a single, unified platform.  
+  **Links:** [View Dashboard](https://tinyurl.com/y7n376yy) | [View Code](github_repo_link_here)  
 
-**Business Value Delivered:**  
-- Enabled granular prescription tracking from national level to individual doctor level  
-- Facilitated competitive benchmarking by product, geography, and specialty  
-- Identified white-space markets and brand placement opportunities  
-- Supported strategic planning and targeting for medical reps and marketing teams  
-
-**Links:** [View Dashboard](https://tinyurl.com/y7n376yy) | [View Code](github_repo_link_here)  
+</details>
 
 ---
 
-### 📊 Project Title 2  
-![Project Preview](image_link_here)  
-**Description:** Short paragraph describing the project purpose, dataset, techniques used, and results.  
-**Links:** [View Dashboard](dashboard_link_here) | [View Code](github_repo_link_here)  
+<details>
+  <summary>📊 Project Title 2</summary>
+
+  <img src="image_link_here" alt="Project Preview" width="650" height="350"/>  
+
+  **Description:** Short paragraph describing the project purpose, dataset, techniques used, and results.  
+
+  **Links:** [View Dashboard](dashboard_link_here) | [View Code](github_repo_link_here)  
+
+</details>
 
 ---
 
-### 📊 Project Title 3  
-![Project Preview](image_link_here)  
-**Description:** Short paragraph describing the project purpose, dataset, techniques used, and results.  
-**Links:** [View Dashboard](dashboard_link_here) | [View Code](github_repo_link_here)  
+<details>
+  <summary>📊 Project Title 3</summary>
+
+  <img src="image_link_here" alt="Project Preview" width="650" height="350"/>  
+
+  **Description:** Short paragraph describing the project purpose, dataset, techniques used, and results.  
+
+  **Links:** [View Dashboard](dashboard_link_here) | [View Code](github_repo_link_here)  
+
+</details>
