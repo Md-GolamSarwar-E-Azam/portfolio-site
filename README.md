@@ -90,22 +90,20 @@ Data Analyst with 4+ years of experience turning complex data into actionable in
 
   <br>
 
-**Domain:** Pharma Analytics | **Region:** Bangladesh
+  **Domain:** Pharma Analytics | **Region:** Bangladesh  
 
-**Summary:**
-Developed a comprehensive, interactive dashboard for analyzing prescription trends and market dynamics in the pharmaceutical sector of Bangladesh. The multi-page report enables stakeholders to monitor market share, brand performance, prescriber behavior, competitor benchmarking, and untapped market opportunities—within a single, unified platform.
+  **Summary:**  
+  Developed a comprehensive, interactive dashboard for analyzing prescription trends and market dynamics in the pharmaceutical sector of Bangladesh. The multi-page report enables stakeholders to monitor market share, brand performance, prescriber behavior, competitor benchmarking, and untapped market opportunities—within a single, unified platform.  
 
-**Business Value Delivered:**
+  **Business Value Delivered:**  
+  - Granular prescription tracking from national level to individual doctor level  
+  - Competitive benchmarking by product, geography, and specialty  
+  - Identification of white-space markets and brand placement opportunities  
+  - Support for strategic planning and targeting for medical reps and marketing teams  
 
-* Granular prescription tracking from national level to individual doctor level
-* Competitive benchmarking by product, geography, and specialty
-* Identification of white-space markets and brand placement opportunities
-* Support for strategic planning and targeting for medical reps and marketing teams
-
-**Links:**
-
-* ▶️ **View Dashboard:** [https://tinyurl.com/y7n376yy](https://tinyurl.com/y7n376yy)
-* 💻 **View Code (GitHub):** *Add your repo link here*
+  **Links:**  
+  - ▶️ **View Dashboard:** [https://tinyurl.com/y7n376yy](https://tinyurl.com/y7n376yy)  
+  - 💻 **View Code (GitHub):** _Add your repo link here_  
 
 </details>
 
