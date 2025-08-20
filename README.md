@@ -4,7 +4,7 @@
 
 ## 🔀 Quick Navigation
 
-[**About Me**](#about-me) | [**💼 Work Experience**](#work-experience) | [**🛠️ Technical Skills**](#technical-skills) | [**📂 Portfolio Projects**](#portfolio-projects)
+[**About Me**](#about-me) | [**💼 Work Experience**](#work-experience) | [**🛠️ Technical Skills**](#technical-skills) | [**📂 Portfolio Projects**](#portfolio-projects) | [**🎓 Education & Certifications**](#education-and-certifications)
 
 ---
 
@@ -127,6 +127,7 @@ Results-driven Data Analyst with 4+ years of experience in the full data lifecyc
 
 ---
 
+<a id="education-and-certifications"></a>
 ## 🎓 Education & Certifications
 
 * **M.Sc., Computer Science & Engineering (Data Science)** | United International University *(Ongoing, CGPA 3.72)*
