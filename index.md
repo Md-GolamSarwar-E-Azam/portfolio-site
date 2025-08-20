@@ -240,7 +240,8 @@ theme: jekyll-theme-cayman
 
 * ▶️ **View Dashboard:** [Click to view the dashboard](https://public.tableau.com/views/SupershopSalesAnalytics/Summary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-* 💻 **View Project Details (GitHub):** [Click to view the details of the project](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/c2c4d257e703dbfbe22a37d4320067c4f9a7ba2f/Supershop%20Sales%20Analytics/readme.md)
+* 💻 **View Project Details (GitHub):** [Click to view the details of the project](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/tree/c2c4d257e703dbfbe22a37d4320067c4f9a7ba2f/Supershop%20Sales%20Analytics)
+
 
 ---
 
