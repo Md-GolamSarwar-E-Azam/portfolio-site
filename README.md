@@ -88,6 +88,8 @@ Data Analyst with 4+ years of experience turning complex data into actionable in
 <details>
   <summary><strong>Show details</strong></summary>
 
+  <br>
+
 **Domain:** Pharma Analytics | **Region:** Bangladesh
 
 **Summary:**
@@ -116,6 +118,8 @@ Developed a comprehensive, interactive dashboard for analyzing prescription tren
 <details>
   <summary><strong>Show details</strong></summary>
 
+  <br>
+
 **Domain:** \[Domain Here] | **Region:** \[Region Here]
 
 **Summary:**
@@ -142,6 +146,8 @@ Short description of project purpose, dataset, techniques used, and insights del
 <details>
   <summary><strong>Show details</strong></summary>
 
+  <br>
+
 **Domain:** \[Domain Here] | **Region:** \[Region Here]
 
 **Summary:**
@@ -161,9 +167,3 @@ Short description of project purpose, dataset, techniques used, and insights del
 
 ---
 
-### ℹ️ Notes
-
-* **Section links fixed:** Top navigation now points to `#about-me`, `#portfolio-projects`, `#work-experience`, and `#technical-skills` (matching headings exactly).
-* **Images always visible:** Each project image is displayed up front; details are toggleable via `<details>`.
-* **Working link format:** Dashboard and GitHub links use standard Markdown/HTML. Replace the placeholder project links with your actual URLs.
-* **Paths are case-sensitive on GitHub:** Ensure your `images/` folder and filenames (`Analysis.png`, `project2.png`, etc.) exist with exact casing.
