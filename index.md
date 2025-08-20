@@ -236,43 +236,36 @@ The dashboard enabled SuperShop’s management to quickly identify high-value su
 
 
 
-### 📊 Project Title 3
+### 📊 Beverage Company Outlet Operations Analysis Dashboard
 
 
 
-<a href="images/project3.png"><img src="images/project3.png" alt="Project 3 Preview" width="750" /></a>
+<a href="images/Supplier analytics.png"><img src="images/Supplier analytics.png" alt="Project 3 Preview" width="750" /></a>
 
 
 
-**Project Details:**
+**Project Summary:**
 
+<p align="justify">
 
+This project presents a data analysis dashboard for a beverage company, focusing on the operational performance of its sales outlets. The dashboard provides a comprehensive overview of sales trends and outlet performance using key metrics and visualizations, allowing stakeholders to quickly identify areas of improvement and monitor operational health.
 
-* **Domain:** [Domain Here] | **Region:** [Region Here]
-
-* **Summary:** Short description of project purpose, dataset, techniques used, and insights delivered.
-
-
+</p>
 
 **Business Value Delivered:**
 
+<p align="justify">
 
-
-* Point 1
-
-* Point 2
-
-
+This dashboard empowers a beverage company's sales and management teams to make **data-driven decisions**. By quickly identifying underperforming regions, clusters, grades, or channels, the company can deploy targeted interventions. For example, a high percentage of degraded outlets in a specific cluster could prompt a review of local market conditions or a change in sales strategy. The cohort analysis also enables the tracking of outlet health over time, highlighting both successes to replicate and persistent challenges to address, ultimately driving sales growth and optimizing operational efficiency.
+</p>
 
 **Links:**
 
 
 
-* ▶️ **View Dashboard:** [https://example.com/dashboard3](https://example.com/dashboard3)
+* ▶️ **View Dashboard:** [Click to view the dashboard](https://public.tableau.com/views/BevarageOperationAnalysis/Summary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-* 💻 **View Code (GitHub):** [https://github.com/username/repo3](https://github.com/username/repo3)
-
-
+* 💻 **View Project Details (GitHub):** [Click to view the details of the project](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/2738e19cd0ef0c07c73a00c5549984114b8f1f5c/Bevarage%20Operation%20Analysis%20Dashboard/readme.md)
 
 ---
 
