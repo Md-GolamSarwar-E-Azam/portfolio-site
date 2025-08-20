@@ -1,5 +1,5 @@
 
-<p align="center">
+<p align="left">
   <img src="images/New Image.jpg" alt="Md. Golam Sarwar-E-Azam" width="200" style="border-radius:50%;">
 </p>
 
