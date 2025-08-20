@@ -3,9 +3,9 @@
 ---
 
 ## 🔀 Quick Navigation
-
+<p align="justify">
 [**About Me**](#about-me) | [**💼 Work Experience**](#work-experience) | [**🛠️ Technical Skills**](#technical-skills) | [**📂 Portfolio Projects**](#portfolio-projects) | [**🎓 Education & Certifications**](#education-and-certifications)
-
+</p>
 ---
 
 <a id="about-me"></a>
