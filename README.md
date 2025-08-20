@@ -68,7 +68,6 @@ Results-driven Data Analyst with 4+ years of experience in the full data lifecyc
 
 **Project Details:**
 
-* **Domain:** Pharma Analytics | **Region:** Bangladesh
 * **Summary:** Developed a comprehensive, interactive dashboard for analyzing prescription trends and market dynamics in the pharmaceutical sector of Bangladesh. The multi-page report enables stakeholders to monitor market share, brand performance, prescriber behavior, competitor benchmarking, and untapped market opportunities—within a single, unified platform.
 
 **Business Value Delivered:**
