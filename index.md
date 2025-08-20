@@ -38,58 +38,6 @@ theme: jekyll-theme-cayman
 
 ---
 
-
-
-<a id="work-experience"></a>
-
-## 💼 Work Experience
-
-
-
-**Data Analyst @ VS One World** | *Jan 2024 – Present*
-
-* Built Budget & Sales Dashboards to aid strategic financial tracking for a major pharmaceutical client (Square Pharma).
-
-* Developed a Marketing & Sales Dashboard for Radiant Pharma, which led to a **20% improvement in campaign ROI**.
-
-* Designed a Sales Performance Dashboard for Paragon Group, contributing to a **10% boost in sales**.
-
-
-
-**BI Analyst (Senior Executive) @ 10 Minute School** | *Jun 2023 – Dec 2023*
-
-* Created an Affiliate KPI Tracker Dashboard, **boosting partner-driven sign-ups by 15%**.
-
-* Built an Academic Dashboard to analyze student behavior, resulting in a **12% improvement in student retention**.
-
-* Developed key dashboards for FB & Google Ads to optimize digital marketing performance and ROI.
-
-* Increased course revenue by **10%** through the development of a Product Revenue Dashboard.
-
-
-
-**Data Analyst (Executive) @ Kaz Software** | *Apr 2022 – May 2023*
-
-* Deployed data warehouse and ETL pipelines using **SSIS, ADF, and Azure SQL** for a major client (Japan Tobacco International).
-
-* Built a Power BI dashboard to monitor daily efficiency across **60+ field locations**.
-
-* Enhanced an In-Market Sales Dashboard, **cutting data refresh time by 40%**.
-
-
-
-**Assistant Executive (Data Cell) @ Epyllion Group** | *Sep 2020 – Nov 2021*
-
-* Contributed to the development of RMG database models and ERP system implementation.
-
-* Converted **10+ Excel dashboards to Power BI**, reducing manual effort by **~60%**.
-
-
-
----
-
-
-
 <a id="technical-skills"></a>
 
 ## 🛠️ Technical Skills
@@ -270,6 +218,53 @@ theme: jekyll-theme-cayman
 
 ---
 
+<a id="work-experience"></a>
+
+## 💼 Work Experience
+
+
+
+**Data Analyst @ VS One World** | *Jan 2024 – Present*
+
+* Built Budget & Sales Dashboards to aid strategic financial tracking for a major pharmaceutical client (Square Pharma).
+
+* Developed a Marketing & Sales Dashboard for Radiant Pharma, which led to a **20% improvement in campaign ROI**.
+
+* Designed a Sales Performance Dashboard for Paragon Group, contributing to a **10% boost in sales**.
+
+
+
+**BI Analyst (Senior Executive) @ 10 Minute School** | *Jun 2023 – Dec 2023*
+
+* Created an Affiliate KPI Tracker Dashboard, **boosting partner-driven sign-ups by 15%**.
+
+* Built an Academic Dashboard to analyze student behavior, resulting in a **12% improvement in student retention**.
+
+* Developed key dashboards for FB & Google Ads to optimize digital marketing performance and ROI.
+
+* Increased course revenue by **10%** through the development of a Product Revenue Dashboard.
+
+
+
+**Data Analyst (Executive) @ Kaz Software** | *Apr 2022 – May 2023*
+
+* Deployed data warehouse and ETL pipelines using **SSIS, ADF, and Azure SQL** for a major client (Japan Tobacco International).
+
+* Built a Power BI dashboard to monitor daily efficiency across **60+ field locations**.
+
+* Enhanced an In-Market Sales Dashboard, **cutting data refresh time by 40%**.
+
+
+
+**Assistant Executive (Data Cell) @ Epyllion Group** | *Sep 2020 – Nov 2021*
+
+* Contributed to the development of RMG database models and ERP system implementation.
+
+* Converted **10+ Excel dashboards to Power BI**, reducing manual effort by **~60%**.
+
+
+
+---
 
 
 
