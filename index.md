@@ -240,7 +240,36 @@ theme: jekyll-theme-cayman
 
 * 💻 **View Project Details (GitHub):** [Click to view the details of the project](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/2738e19cd0ef0c07c73a00c5549984114b8f1f5c/Bevarage%20Operation%20Analysis%20Dashboard/readme.md)
 
+
 ---
+
+
+
+### 📊 Agro Feed Sales Performance Dashboard
+
+
+<a href="images/Beverage.png"><img src="images/Beverage.png" alt="Project 4 Preview" width="750" /></a>
+
+
+
+**Project Summary:**
+
+<p align="justify"> This project presents a data analysis dashboard for a leading agribusiness company, focusing on the operational performance of its sales outlets and products. The dashboard provides a comprehensive overview of sales trends and outlet performance using key metrics and visualizations, allowing stakeholders to quickly identify areas of improvement and monitor operational health. </p>
+
+**Business Value Delivered:**
+
+<p align="justify"> This dashboard empowers a company's sales and management teams to make **data-driven decisions**. By quickly identifying underperforming regions, product categories, or distributors, the company can deploy targeted interventions. The tool provides real-time insights on distributor segmentation and target achievement, facilitating actionable analysis from the territory to individual party level. Furthermore, the ability to monitor price variance helps in optimizing pricing strategies, ultimately driving sales growth and optimizing operational efficiency. </p>
+
+**Links:**
+
+
+
+* ▶️ **View Dashboard:** [Click to view the dashboard](https://public.tableau.com/views/BevarageOperationAnalysis/Summary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+* 💻 **View Project Details (GitHub):** [Click to view the details of the project](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/2738e19cd0ef0c07c73a00c5549984114b8f1f5c/Bevarage%20Operation%20Analysis%20Dashboard/readme.md)
+
+---
+
 
 
 
