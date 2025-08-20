@@ -103,9 +103,11 @@ Explored Netflix dataset to understand content trends, growth, and popularity. K
 <a href="images/Supplier analytics.png"><img src="images/Supplier analytics.png" alt="Project 3 Preview" width="750" /></a>
 
 **Project Summary:**
+
 Developed a Supplier Profitability and Contribution Dashboard for SuperShop, designed to provide decision-makers with clear insights into supplier performance, sales contribution, and profitability. The dashboard leverages interactive filters, scenario analysis, and visualizations to identify key suppliers, monitor trends, and drive data-backed business strategies.
 
 **Business Value Delivered:**
+
 The dashboard enabled SuperShop’s management to quickly identify high-value suppliers, track underperforming ones, and optimize purchasing and promotional strategies. By visualizing profitability drivers and sales concentration, decision-makers were able to prioritize top contributors, negotiate better supplier terms, and reduce losses from low-margin partners. Overall, the solution improved transparency in supplier performance, supported data-driven negotiations, and strengthened the company’s ability to align supply strategies with revenue goals.
 
 **Links:**
