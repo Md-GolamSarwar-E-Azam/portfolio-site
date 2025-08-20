@@ -18,7 +18,7 @@ theme: jekyll-theme-cayman
 
 ## About Me
 
-<p align="justify">Results-driven Data Analyst with 4+ years of experience in the full data lifecycle—from building robust ETL pipelines and data warehouses to designing impactful dashboards. My passion lies in transforming complex data into actionable insights that drive business growth and optimize performance. I have a proven track record of developing and deploying BI solutions that have directly increased sales, improved campaign ROI, and enhanced operational efficiency for a variety of key clients. </p>
+<p align="justify">Results-driven Data Analyst with 4+ years of experience in the full data lifecycle from building robust ETL pipelines and data warehouses to designing impactful dashboards. My passion lies in transforming complex data into actionable insights that drive business growth and optimize performance. I have a proven track record of developing and deploying BI solutions that have directly increased sales, improved campaign ROI, and enhanced operational efficiency for a variety of key clients. </p>
 
 
 
@@ -244,6 +244,36 @@ theme: jekyll-theme-cayman
 
 ---
 
+<a id="education-and-certifications"></a>
+
+## 🎓 Education & Certifications
+
+
+
+* **M.Sc., Computer Science & Engineering (Data Science)** | United International University *(Ongoing, CGPA 3.72)*
+
+* **B.Sc., Industrial & Production Engineering** | Ahsanullah University of Science & Technology *(2020, CGPA 3.67)*
+
+
+
+**Certifications**
+
+* **IBM Data Analyst Professional Certificate**
+
+* **Tableau Fundamentals, Intermediate, & Advanced** (Tableau eLearning)
+
+* **Power BI Data Analytics** (365datascience.com)
+
+* **Machine Learning Specialization** (Andrew Ng)
+
+* **Databases and SQL for Data Science** (Coursera)
+
+* **Advanced SQL: Logical Query Processing** (LinkedIn)
+
+* **Python for Data Science, AI & Development** (Coursera)
+
+---
+
 <a id="work-experience"></a>
 
 ## 💼 Work Experience
@@ -288,36 +318,3 @@ theme: jekyll-theme-cayman
 
 * Converted **10+ Excel dashboards to Power BI**, reducing manual effort by **~60%**.
 
-
-
----
-
-
-
-<a id="education-and-certifications"></a>
-
-## 🎓 Education & Certifications
-
-
-
-* **M.Sc., Computer Science & Engineering (Data Science)** | United International University *(Ongoing, CGPA 3.72)*
-
-* **B.Sc., Industrial & Production Engineering** | Ahsanullah University of Science & Technology *(2020, CGPA 3.67)*
-
-
-
-**Certifications**
-
-* **IBM Data Analyst Professional Certificate**
-
-* **Tableau Fundamentals, Intermediate, & Advanced** (Tableau eLearning)
-
-* **Power BI Data Analytics** (365datascience.com)
-
-* **Machine Learning Specialization** (Andrew Ng)
-
-* **Databases and SQL for Data Science** (Coursera)
-
-* **Advanced SQL: Logical Query Processing** (LinkedIn)
-
-* **Python for Data Science, AI & Development** (Coursera)
