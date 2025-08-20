@@ -8,20 +8,11 @@ theme: jekyll-theme-cayman
 [**About Me**](#about-me) | [**💼 Work Experience**](#work-experience) | [**🛠️ Technical Skills**](#technical-skills) | [**📂 Portfolio Projects**](#portfolio-projects) | [**🎓 Education & Certifications**](#education-and-certifications)
 
 ---
-
-... all of your other content ...  
---- 
-## 🔀 Quick Navigation 
-[**About Me**](#about-me) | [**💼 Work Experience**](#work-experience) | [**🛠️ Technical Skills**](#technical-skills) | [**📂 Portfolio Projects**](#portfolio-projects) | [**🎓 Education & Certifications**](#education-and-certifications) 
----
-
 <p align="left">
 
   <img src="images/New Image.jpg" alt="Md. Golam Sarwar-E-Azam" width="200" style="border-radius:50%;">
 
 </p>
-
-
 
 <a id="about-me"></a>
 
