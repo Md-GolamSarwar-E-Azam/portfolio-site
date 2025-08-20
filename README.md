@@ -2,13 +2,11 @@
 ## 🔀 Quick Navigation
 [**About Me**](#about-me) | [**💼 Work Experience**](#work-experience) | [**🛠️ Technical Skills**](#technical-skills) | [**📂 Portfolio Projects**](#portfolio-projects) | [**🎓 Education & Certifications**](#education-and-certifications)
 ---
-
-<a id="about-me"></a>
-
-## About Me
 <p align="left">
   <img src="images/New Image.jpg" alt="Md. Golam Sarwar-E-Azam" width="200" style="border-radius:50%;">
 </p>
+<a id="about-me"></a>
+## About Me
 <p align="justify">
 Results-driven Data Analyst with 4+ years of experience in the full data lifecycle—from building robust ETL pipelines and data warehouses to designing impactful dashboards. My passion lies in transforming complex data into actionable insights that drive business growth and optimize performance. I have a proven track record of developing and deploying BI solutions that have directly increased sales, improved campaign ROI, and enhanced operational efficiency for a variety of key clients.
 </p>
