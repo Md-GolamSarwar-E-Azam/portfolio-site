@@ -1,7 +1,7 @@
 # Data Analyst | Business Intelligence Analyst
 
 ## 🔀 Quick Navigation
-[**About Me**](#about-me) | [**Portfolio Projects**](#portfolio-projects) | [**Experience**](#-work-experience) | [**Skills**](#-technical-skills)
+[**About Me**](#about-me) | [**📂 Portfolio Projects**](#portfolio-projects) | [**Experience**](#-work-experience) | [**Skills**](#-technical-skills)
 
 ---
 
@@ -33,33 +33,16 @@ Data Analyst with 4+ years of experience turning complex data into actionable in
 
 ## 💼 Work Experience
 
-**Data Analyst @ VS One World (_Jan 2024 – Present_)**  
-- Built Budget & Sales Dashboard for Square Pharma to aid strategic financial tracking  
-- Developed Marketing & Sales Dashboard for Radiant Pharma, improving campaign ROI by 20%  
-- Designed Sales Performance Dashboard for Paragon Group, boosting sales by 10%  
-- Leading development of Retail Audit KPI Dashboard for Luminaries Research  
+**Data Analyst @ VS One World (_Jan 2024 – Present_)**   
 - **Tools & Tech:** Tableau, Power BI | **Languages:** SQL, Python, DAX  
 
 **BI Analyst (Senior Executive) @ 10 Minute School (_Jun 2023 – Dec 2023_)**  
-- Created Affiliate KPI Tracker Dashboard, boosting partner-driven sign-ups by 15%  
-- Built HSC Academic Dashboard, improving student retention by 12%  
-- Developed FB & Google Ads Dashboards to optimize digital marketing ROI  
-- Implemented GA4-based Traffic Dashboard to align sources with affiliate leads  
-- Designed Product Revenue Dashboard, increasing course revenue by 10%  
 - **Tools & Tech:** Google Cloud Platform, BigQuery, Google Data Studio, Metabase | **Languages:** MySQL, Python  
 
 **Data Analyst (Executive) @ Kaz Software (_Apr 2022 – May 2023_)**  
-- Deployed data warehouse and ETL pipelines using SSIS, ADF, and Azure SQL for Japan Tobacco International  
-- Built Power BI dashboards monitoring daily efficiency across 60+ field locations  
-- Designed KPI tracker for JTI's Camel brand with full data modeling  
-- Enhanced In-Market Sales Dashboard, cutting data refresh time by 40%  
 - **Tools & Tech:** MS Azure SQL Server, SSMS, SSIS, Azure Data Factory, Visual Studio, Azure DevOps, Power BI Premium | **Languages:** T-SQL, M-Query, DAX  
 
 **Assistant Executive (Data Cell) @ Epyllion Group (_Sep 2020 – Nov 2021_)**  
-- Developed RMG database models & implemented ERP system on a new factory  
-- Pulled data from SQL Server & developed Power BI dashboards for monthly/quarterly/yearly KPIs  
-- Converted 10+ Excel dashboards to Power BI, cutting manual effort by ~60%  
-
 ---
 
 ## 📜 Certifications
