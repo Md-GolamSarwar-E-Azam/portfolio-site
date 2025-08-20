@@ -5,7 +5,7 @@ theme: jekyll-theme-cayman
 ---
 
 ## 🔀 Quick Navigation
-[**About Me**](#about-me) | [**💼 Work Experience**](#work-experience) | [**🛠️ Technical Skills**](#technical-skills) | [**📂 Portfolio Projects**](#portfolio-projects) | [**🎓 Education & Certifications**](#education-and-certifications)
+[**About Me**](#about-me) |  [**🛠️ Technical Skills**](#technical-skills) | [**📂 Portfolio Projects**](#portfolio-projects) | [**🎓 Education & Certifications**](#education-and-certifications) |  [**💼 Work Experience**](#work-experience) 
 
 ---
 <p align="left">
