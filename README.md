@@ -81,7 +81,7 @@ Results-driven Data Analyst with 4+ years of experience in the full data lifecyc
 **Links:**
 
 * ▶️ **View Dashboard:** [https://tinyurl.com/y7n376yy](https://tinyurl.com/y7n376yy)
-* 💻 **View Project Details (GitHub):** [https://surl.li/nwzrqi]
+* 💻 **View Project Details (GitHub):** [https://surl.li/nwzrqi](https://surl.li/nwzrqi)
 
 ---
 
