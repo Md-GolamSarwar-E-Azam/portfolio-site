@@ -130,11 +130,7 @@ theme: jekyll-theme-cayman
 
 **Project Summary:**
 
-<p align="justify">
-
-Developed a comprehensive, interactive dashboard for analyzing prescription trends and market dynamics in the pharmaceutical sector of Bangladesh. The multi-page report enables stakeholders to monitor market share, brand performance, prescriber behavior, competitor benchmarking, and untapped market opportunities—within a single, unified platform.
-
-</p>
+<p align="justify">Developed a comprehensive, interactive dashboard for analyzing prescription trends and market dynamics in the pharmaceutical sector of Bangladesh. The multi-page report enables stakeholders to monitor market share, brand performance, prescriber behavior, competitor benchmarking, and untapped market opportunities—within a single, unified platform. </p>
 
 
 
@@ -176,11 +172,7 @@ Developed a comprehensive, interactive dashboard for analyzing prescription tren
 
 **Project Summary:**
 
-<p align="justify">
-
-Explored Netflix dataset to understand content trends, growth, and popularity. Key findings include country association, top directors, movie vs. TV show balance, and genre growth rates.
-
-</p>
+<p align="justify"> Explored Netflix dataset to understand content trends, growth, and popularity. Key findings include country association, top directors, movie vs. TV show balance, and genre growth rates. </p>
 
 **Links:**
 
@@ -204,19 +196,11 @@ Explored Netflix dataset to understand content trends, growth, and popularity. K
 
 **Project Summary:**
 
-<p align="justify">
-
-Developed a Supplier Profitability and Contribution Dashboard for SuperShop, designed to provide decision-makers with clear insights into supplier performance, sales contribution, and profitability. The dashboard leverages interactive filters, scenario analysis, and visualizations to identify key suppliers, monitor trends, and drive data-backed business strategies.
-
-</p>
+<p align="justify"> Developed a Supplier Profitability and Contribution Dashboard for SuperShop, designed to provide decision-makers with clear insights into supplier performance, sales contribution, and profitability. The dashboard leverages interactive filters, scenario analysis, and visualizations to identify key suppliers, monitor trends, and drive data-backed business strategies. </p>
 
 **Business Value Delivered:**
 
-<p align="justify">
-
-The dashboard enabled SuperShop’s management to quickly identify high-value suppliers, track underperforming ones, and optimize purchasing and promotional strategies. By visualizing profitability drivers and sales concentration, decision-makers were able to prioritize top contributors, negotiate better supplier terms, and reduce losses from low-margin partners. Overall, the solution improved transparency in supplier performance, supported data-driven negotiations, and strengthened the company’s ability to align supply strategies with revenue goals.
-
-</p>
+<p align="justify"> The dashboard enabled SuperShop’s management to quickly identify high-value suppliers, track underperforming ones, and optimize purchasing and promotional strategies. By visualizing profitability drivers and sales concentration, decision-makers were able to prioritize top contributors, negotiate better supplier terms, and reduce losses from low-margin partners. Overall, the solution improved transparency in supplier performance, supported data-driven negotiations, and strengthened the company’s ability to align supply strategies with revenue goals. </p>
 
 **Links:**
 
@@ -242,18 +226,11 @@ The dashboard enabled SuperShop’s management to quickly identify high-value su
 
 **Project Summary:**
 
-<p align="justify">
-
-This project presents a data analysis dashboard for a beverage company, focusing on the operational performance of its sales outlets. The dashboard provides a comprehensive overview of sales trends and outlet performance using key metrics and visualizations, allowing stakeholders to quickly identify areas of improvement and monitor operational health.
-
-</p>
+<p align="justify"> This project presents a data analysis dashboard for a beverage company, focusing on the operational performance of its sales outlets. The dashboard provides a comprehensive overview of sales trends and outlet performance using key metrics and visualizations, allowing stakeholders to quickly identify areas of improvement and monitor operational health. </p>
 
 **Business Value Delivered:**
 
-<p align="justify">
-
-This dashboard empowers a beverage company's sales and management teams to make **data-driven decisions**. By quickly identifying underperforming regions, clusters, grades, or channels, the company can deploy targeted interventions. For example, a high percentage of degraded outlets in a specific cluster could prompt a review of local market conditions or a change in sales strategy. The cohort analysis also enables the tracking of outlet health over time, highlighting both successes to replicate and persistent challenges to address, ultimately driving sales growth and optimizing operational efficiency.
-</p>
+<p align="justify"> This dashboard empowers a beverage company's sales and management teams to make **data-driven decisions**. By quickly identifying underperforming regions, clusters, grades, or channels, the company can deploy targeted interventions. For example, a high percentage of degraded outlets in a specific cluster could prompt a review of local market conditions or a change in sales strategy. The cohort analysis also enables the tracking of outlet health over time, highlighting both successes to replicate and persistent challenges to address, ultimately driving sales growth and optimizing operational efficiency. </p>
 
 **Links:**
 
