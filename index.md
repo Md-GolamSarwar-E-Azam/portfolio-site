@@ -218,6 +218,32 @@ theme: jekyll-theme-cayman
 
 ---
 
+
+### 📊 Supershop Sales Analytics Dashboard
+
+
+<a href="images/SuperShop Sales.png"><img src="images/SuperShop Sales.png" alt="Project 6 Preview" width="750" /></a>
+
+
+
+**Project Summary:**
+
+<p align="justify">This project is a comprehensive **SuperShop Sales Analysis Dashboard** designed to provide in-depth insights into the sales performance and trends of a supermarket chain. It's built to empower store managers and business analysts to monitor key performance indicators (KPIs), track trends, and make data-driven decisi
+
+**Business Value Delivered:**
+
+<p align="justify">This dashboard provides a comprehensive view of performance, drill-down interactivity, and KPI-based trend analysis to support sales monitoring and decision-making. By visualizing complex data in an intuitive way, the SuperShop Sales Analysis Dashboard enables stakeholders to quickly identify top-performing outlets, recognize underperforming product categories, and understand seasonal sales patterns. This empowers management to optimize inventory, refine marketing strategies, and ultimately drive revenue growth.</p>
+
+**Links:**
+
+
+
+* ▶️ **View Dashboard:** [Click to view the dashboard](https://public.tableau.com/views/SupershopSalesAnalytics/Summary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+* 💻 **View Project Details (GitHub):** [Click to view the details of the project](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/c2c4d257e703dbfbe22a37d4320067c4f9a7ba2f/Supershop%20Sales%20Analytics/readme.md)
+
+---
+
 <a id="work-experience"></a>
 
 ## 💼 Work Experience
