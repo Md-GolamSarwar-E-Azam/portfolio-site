@@ -244,7 +244,6 @@ theme: jekyll-theme-cayman
 
 ---
 
-
 <a id="work-experience"></a>
 
 ## 💼 Work Experience
