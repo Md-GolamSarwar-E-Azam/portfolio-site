@@ -113,7 +113,7 @@ The dashboard enabled SuperShop’s management to quickly identify high-value su
 **Links:**
 
 * ▶️ **View Dashboard:** [Click to view the dashboard](https://public.tableau.com/views/SupplierAnalysisdashboard/Supplierwiseanalytics?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-* 💻 **View Project Details (GitHub):** [Click to view the details of the project](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/tree/f81e7b96b1493fffcec622f73d3b38c4dcb9b4a9/Pharmaceutical%20Prescription%20Analysis%20%26%20Market%20Overview%20Dashboard)
+* 💻 **View Project Details (GitHub):** [Click to view the details of the project](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/main/Supplier%20Performance%20&%20Promotion%20Analysis%20Dashboard/readme.md)
 
 ---
 
