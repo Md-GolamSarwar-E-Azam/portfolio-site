@@ -1,5 +1,3 @@
-# Md. Golam Sarwar-E-Azam 👋
-
 ### Data Analyst | Business Intelligence Analyst
 
 ---
@@ -69,19 +67,21 @@ Results-driven Data Analyst with 4+ years of experience in the full data lifecyc
 <a href="images/Analysis.png"><img src="images/Analysis.png" alt="Pharma Market & Prescription Analysis Dashboard" width="750" /></a>
 
 <details>
-  <summary><strong>Show details</strong></summary>
-  <br>
-  **Domain:** Pharma Analytics | **Region:** Bangladesh
-  **Summary:**
-  Developed a comprehensive, interactive dashboard for analyzing prescription trends and market dynamics in the pharmaceutical sector of Bangladesh. The multi-page report enables stakeholders to monitor market share, brand performance, prescriber behavior, competitor benchmarking, and untapped market opportunities—within a single, unified platform.
-  **Business Value Delivered:**
-  - Granular prescription tracking from national level to individual doctor level
-  - Competitive benchmarking by product, geography, and specialty
-  - Identification of white-space markets and brand placement opportunities
-  - Support for strategic planning and targeting for medical reps and marketing teams
-  **Links:**
-  - ▶️ **View Dashboard:** [https://tinyurl.com/y7n376yy](https://tinyurl.com/y7n376yy)
-  - 💻 **View Code (GitHub):** [Add your repo link here]
+  <summary><strong>Show details</strong></summary>
+  
+  **Domain:** Pharma Analytics | **Region:** Bangladesh 
+  
+  **Summary:** Developed a comprehensive, interactive dashboard for analyzing prescription trends and market dynamics in the pharmaceutical sector of Bangladesh. The multi-page report enables stakeholders to monitor market share, brand performance, prescriber behavior, competitor benchmarking, and untapped market opportunities—within a single, unified platform.
+  
+  **Business Value Delivered:**
+  * Granular prescription tracking from national level to individual doctor level
+  * Competitive benchmarking by product, geography, and specialty
+  * Identification of white-space markets and brand placement opportunities
+  * Support for strategic planning and targeting for medical reps and marketing teams
+  
+  **Links:**
+  * ▶️ **View Dashboard:** [https://tinyurl.com/y7n376yy](https://tinyurl.com/y7n376yy) 
+  * 💻 **View Code (GitHub):** [Add your repo link here]
 </details>
 
 ---
@@ -91,17 +91,20 @@ Results-driven Data Analyst with 4+ years of experience in the full data lifecyc
 <a href="images/project2.png"><img src="images/project2.png" alt="Project 2 Preview" width="750" /></a>
 
 <details>
-  <summary><strong>Show details</strong></summary>
-  <br>
-  **Domain:** [Domain Here] | **Region:** [Region Here]
-  **Summary:**
-  Short description of project purpose, dataset, techniques used, and insights delivered.
-  **Business Value Delivered:**
-  * Point 1
-  * Point 2
-  **Links:**
-  * ▶️ **View Dashboard:** [https://example.com/dashboard2](https://example.com/dashboard2)
-  * 💻 **View Code (GitHub):** [https://github.com/username/repo2](https://github.com/username/repo2)
+  <summary><strong>Show details</strong></summary>
+  
+  **Domain:** [Domain Here] | **Region:** [Region Here]
+  
+  **Summary:**
+  Short description of project purpose, dataset, techniques used, and insights delivered.
+  
+  **Business Value Delivered:**
+  * Point 1
+  * Point 2
+  
+  **Links:**
+  * ▶️ **View Dashboard:** [https://example.com/dashboard2](https://example.com/dashboard2)
+  * 💻 **View Code (GitHub):** [https://github.com/username/repo2](https://github.com/username/repo2)
 </details>
 
 ---
@@ -111,17 +114,20 @@ Results-driven Data Analyst with 4+ years of experience in the full data lifecyc
 <a href="images/project3.png"><img src="images/project3.png" alt="Project 3 Preview" width="750" /></a>
 
 <details>
-  <summary><strong>Show details</strong></summary>
-  <br>
-  **Domain:** [Domain Here] | **Region:** [Region Here]
-  **Summary:**
-  Short description of project purpose, dataset, techniques used, and insights delivered.
-  **Business Value Delivered:**
-  * Point 1
-  * Point 2
-  **Links:**
-  * ▶️ **View Dashboard:** [https://example.com/dashboard3](https://example.com/dashboard3)
-  * 💻 **View Code (GitHub):** [https://github.com/username/repo3](https://github.com/username/repo3)
+  <summary><strong>Show details</strong></summary>
+  
+  **Domain:** [Domain Here] | **Region:** [Region Here]
+  
+  **Summary:**
+  Short description of project purpose, dataset, techniques used, and insights delivered.
+  
+  **Business Value Delivered:**
+  * Point 1
+  * Point 2
+  
+  **Links:**
+  * ▶️ **View Dashboard:** [https://example.com/dashboard3](https://example.com/dashboard3)
+  * 💻 **View Code (GitHub):** [https://github.com/username/repo3](https://github.com/username/repo3)
 </details>
 
 ---
