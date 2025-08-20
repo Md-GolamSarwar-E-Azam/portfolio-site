@@ -240,7 +240,7 @@ The dashboard enabled SuperShop’s management to quickly identify high-value su
 
 
 
-<a href="images/Supplier analytics.png"><img src="images/Supplier analytics.png" alt="Project 3 Preview" width="750" /></a>
+<a href="images/Beverage.png"><img src="images/Beverage.png" alt="Project 4 Preview" width="750" /></a>
 
 
 
