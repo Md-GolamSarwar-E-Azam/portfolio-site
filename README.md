@@ -80,8 +80,8 @@ Results-driven Data Analyst with 4+ years of experience in the full data lifecyc
 
 **Links:**
 
-* ▶️ **View Dashboard:** [Click to view the dashboard]([https://tinyurl.com/y7n376yy](https://public.tableau.com/views/PrescriptionAnalysis_17555135714300/Status?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
-* 💻 **View Project Details (GitHub):** [Click to view the details of the project](https://surl.li/nwzrqi)
+* ▶️ **View Dashboard:** [Click to view the dashboard](https://public.tableau.com/views/PrescriptionAnalysis_17555135714300/Status?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+* 💻 **View Project Details (GitHub):** [Click to view the details of the project](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/tree/f81e7b96b1493fffcec622f73d3b38c4dcb9b4a9/Pharmaceutical%20Prescription%20Analysis%20%26%20Market%20Overview%20Dashboard)
 
 ---
 
