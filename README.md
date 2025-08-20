@@ -11,7 +11,7 @@
 <a id="about-me"></a>
 ## About Me
 
-Results-driven Data Analyst with 4+ years of experience in the full data lifecycle—from building robust ETL pipelines and data warehouses to designing impactful dashboards. My passion lies in transforming complex data into actionable insights that drive business growth and optimize performance. I have a proven track record of developing and deploying BI solutions that have directly increased sales, improved campaign ROI, and enhanced operational efficiency for key clients in the pharmaceutical and retail sectors.
+Results-driven Data Analyst with 4+ years of experience in the full data lifecycle—from building robust ETL pipelines and data warehouses to designing impactful dashboards. My passion lies in transforming complex data into actionable insights that drive business growth and optimize performance. I have a proven track record of developing and deploying BI solutions that have directly increased sales, improved campaign ROI, and enhanced operational efficiency for a variety of key clients.
 
 **What I Do Best**
 
