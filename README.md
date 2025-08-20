@@ -81,7 +81,7 @@ Results-driven Data Analyst with 4+ years of experience in the full data lifecyc
 **Links:**
 
 * ▶️ **View Dashboard:** [https://tinyurl.com/y7n376yy](https://tinyurl.com/y7n376yy)
-* 💻 **View Project Details (GitHub):** [https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/7d6c0f8f8c06be9913a863327abb15c1f5afc7f3/Pharmaceutical%20Prescription%20Analysis%20%26%20Market%20Overview%20Dashboard/README.md]
+* 💻 **View Project Details (GitHub):** [https://surl.li/nwzrqi]
 
 ---
 
