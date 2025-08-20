@@ -67,8 +67,9 @@ Results-driven Data Analyst with 4+ years of experience in the full data lifecyc
 <a href="images/Analysis.png"><img src="images/Analysis.png" alt="Project 1 Preview" width="750" /></a>
 
 **Project Summary:**
-
+<p align="justify">
 Developed a comprehensive, interactive dashboard for analyzing prescription trends and market dynamics in the pharmaceutical sector of Bangladesh. The multi-page report enables stakeholders to monitor market share, brand performance, prescriber behavior, competitor benchmarking, and untapped market opportunities—within a single, unified platform.
+</p>
 
 **Business Value Delivered:**
 
@@ -89,9 +90,9 @@ Developed a comprehensive, interactive dashboard for analyzing prescription tren
 <a href="images/Project Netflix.png"><img src="images/Project Netflix.png" alt="Project 2 Preview" width="750" /></a>
 
 **Project Summary:**
-
+<p align="justify">
 Explored Netflix dataset to understand content trends, growth, and popularity. Key findings include country association, top directors, movie vs. TV show balance, and genre growth rates.
-
+</p>
 **Links:**
 
 * 💻 **View Code (GitHub):** [Click to view project details](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/tree/7a72b806c1ef99c3f075ea8a0ede8f8dff0757ec/Analyzing%20Netflix%20Content%20Trends)
@@ -103,13 +104,13 @@ Explored Netflix dataset to understand content trends, growth, and popularity. K
 <a href="images/Supplier analytics.png"><img src="images/Supplier analytics.png" alt="Project 3 Preview" width="750" /></a>
 
 **Project Summary:**
-
+<p align="justify">
 Developed a Supplier Profitability and Contribution Dashboard for SuperShop, designed to provide decision-makers with clear insights into supplier performance, sales contribution, and profitability. The dashboard leverages interactive filters, scenario analysis, and visualizations to identify key suppliers, monitor trends, and drive data-backed business strategies.
-
+</p>
 **Business Value Delivered:**
-
+<p align="justify">
 The dashboard enabled SuperShop’s management to quickly identify high-value suppliers, track underperforming ones, and optimize purchasing and promotional strategies. By visualizing profitability drivers and sales concentration, decision-makers were able to prioritize top contributors, negotiate better supplier terms, and reduce losses from low-margin partners. Overall, the solution improved transparency in supplier performance, supported data-driven negotiations, and strengthened the company’s ability to align supply strategies with revenue goals.
-
+</p>
 **Links:**
 
 * ▶️ **View Dashboard:** [Click to view the dashboard](https://public.tableau.com/views/SupplierAnalysisdashboard/Supplierwiseanalytics?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
