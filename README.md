@@ -66,9 +66,9 @@ Results-driven Data Analyst with 4+ years of experience in the full data lifecyc
 
 <a href="images/Analysis.png"><img src="images/Analysis.png" alt="Pharma Market & Prescription Analysis Dashboard" width="750" /></a>
 
-**Project Details:**
+**Project Summary:**
 
-* **Summary:** Developed a comprehensive, interactive dashboard for analyzing prescription trends and market dynamics in the pharmaceutical sector of Bangladesh. The multi-page report enables stakeholders to monitor market share, brand performance, prescriber behavior, competitor benchmarking, and untapped market opportunities—within a single, unified platform.
+Developed a comprehensive, interactive dashboard for analyzing prescription trends and market dynamics in the pharmaceutical sector of Bangladesh. The multi-page report enables stakeholders to monitor market share, brand performance, prescriber behavior, competitor benchmarking, and untapped market opportunities—within a single, unified platform.
 
 **Business Value Delivered:**
 
@@ -88,9 +88,9 @@ Results-driven Data Analyst with 4+ years of experience in the full data lifecyc
 
 <a href="images/Project Netflix.png"><img src="images/Project Netflix.png" alt="Analyzing Netflix Content Trends" width="750" /></a>
 
-**Project Details:**
+**Project Summary:**
 
-* **Summary:** Explored Netflix dataset to understand content trends, growth, and popularity. Key findings include country association, top directors, movie vs. TV show balance, and genre growth rates.
+Explored Netflix dataset to understand content trends, growth, and popularity. Key findings include country association, top directors, movie vs. TV show balance, and genre growth rates.
 
 **Links:**
 
