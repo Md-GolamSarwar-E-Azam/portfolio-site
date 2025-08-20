@@ -84,14 +84,13 @@ Results-driven Data Analyst with 4+ years of experience in the full data lifecyc
 
 ---
 
-### 📊 Project Title 2
+### 📊 Analyzing Netflix Content Trends
 
 <a href="images/project2.png"><img src="images/project2.png" alt="Project 2 Preview" width="750" /></a>
 
 **Project Details:**
 
-* **Domain:** [Domain Here] | **Region:** [Region Here]
-* **Summary:** Short description of project purpose, dataset, techniques used, and insights delivered.
+* **Summary:** Explored Netflix dataset to understand content trends, growth, and popularity. Key findings include country association, top directors, movie vs. TV show balance, and genre growth rates.
 
 **Business Value Delivered:**
 
