@@ -86,21 +86,15 @@ Results-driven Data Analyst with 4+ years of experience in the full data lifecyc
 
 ### 📊 Analyzing Netflix Content Trends
 
-<a href="[Analyzing Netflix Content Trends/images/1.png](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/7a72b806c1ef99c3f075ea8a0ede8f8dff0757ec/Analyzing%20Netflix%20Content%20Trends/images/1.png)"><img src="[images/project2.png](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/7a72b806c1ef99c3f075ea8a0ede8f8dff0757ec/Analyzing%20Netflix%20Content%20Trends/images/1.png)" alt="[Project 2 Preview](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/7a72b806c1ef99c3f075ea8a0ede8f8dff0757ec/Analyzing%20Netflix%20Content%20Trends/images/1.png)" width="750" /></a>
+<a href="images/Project Netflix.png"><img src="images/Project Netflix.png" alt="Analyzing Netflix Content Trends" width="750" /></a>
 
 **Project Details:**
 
 * **Summary:** Explored Netflix dataset to understand content trends, growth, and popularity. Key findings include country association, top directors, movie vs. TV show balance, and genre growth rates.
 
-**Business Value Delivered:**
-
-* Point 1
-* Point 2
-
 **Links:**
 
-* ▶️ **View Dashboard:** [https://example.com/dashboard2](https://example.com/dashboard2)
-* 💻 **View Code (GitHub):** [https://github.com/username/repo2](https://github.com/username/repo2)
+* 💻 **View Code (GitHub):** [Click to view project details](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/7a72b806c1ef99c3f075ea8a0ede8f8dff0757ec/Analyzing%20Netflix%20Content%20Trends/images/1.png)
 
 ---
 
