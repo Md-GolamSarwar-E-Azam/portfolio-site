@@ -1,4 +1,15 @@
---#  
+---
+title: Md. Golam Sarwar-E-Azam – Data Analytics Portfolio
+description: Data Analyst & BI Consultant
+theme: jekyll-theme-cayman
+---
+
+## 🔀 Quick Navigation
+[**About Me**](#about-me) | [**💼 Work Experience**](#work-experience) | [**🛠️ Technical Skills**](#technical-skills) | [**📂 Portfolio Projects**](#portfolio-projects) | [**🎓 Education & Certifications**](#education-and-certifications)
+
+---
+
+... all of your other content ...  
 --- 
 ## 🔀 Quick Navigation 
 [**About Me**](#about-me) | [**💼 Work Experience**](#work-experience) | [**🛠️ Technical Skills**](#technical-skills) | [**📂 Portfolio Projects**](#portfolio-projects) | [**🎓 Education & Certifications**](#education-and-certifications) 
