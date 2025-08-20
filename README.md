@@ -80,8 +80,8 @@ Results-driven Data Analyst with 4+ years of experience in the full data lifecyc
 
 **Links:**
 
-* ▶️ **View Dashboard:** [https://tinyurl.com/y7n376yy](https://tinyurl.com/y7n376yy)
-* 💻 **View Project Details (GitHub):** [https://surl.li/nwzrqi](https://surl.li/nwzrqi)
+* ▶️ **View Dashboard:** [Click to view the dashboard]([https://tinyurl.com/y7n376yy](https://public.tableau.com/views/PrescriptionAnalysis_17555135714300/Status?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+* 💻 **View Project Details (GitHub):** [Click to view the details of the project](https://surl.li/nwzrqi)
 
 ---
 
