@@ -86,7 +86,7 @@ Results-driven Data Analyst with 4+ years of experience in the full data lifecyc
 
 ### 📊 Analyzing Netflix Content Trends
 
-<a href="images/project2.png"><img src="images/project2.png" alt="Project 2 Preview" width="750" /></a>
+<a href="[Analyzing Netflix Content Trends/images/1.png](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/7a72b806c1ef99c3f075ea8a0ede8f8dff0757ec/Analyzing%20Netflix%20Content%20Trends/images/1.png)"><img src="[images/project2.png](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/7a72b806c1ef99c3f075ea8a0ede8f8dff0757ec/Analyzing%20Netflix%20Content%20Trends/images/1.png)" alt="[Project 2 Preview](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/7a72b806c1ef99c3f075ea8a0ede8f8dff0757ec/Analyzing%20Netflix%20Content%20Trends/images/1.png)" width="750" /></a>
 
 **Project Details:**
 
