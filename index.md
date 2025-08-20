@@ -228,11 +228,11 @@ theme: jekyll-theme-cayman
 
 **Project Summary:**
 
-<p align="justify">This project is a comprehensive **SuperShop Sales Analysis Dashboard** designed to provide in-depth insights into the sales performance and trends of a supermarket chain. It's built to empower store managers and business analysts to monitor key performance indicators (KPIs), track trends, and make data-driven decisi
+<p align="justify"> This project is a comprehensive **SuperShop Sales Analysis Dashboard** designed to provide in-depth insights into the sales performance and trends of a supermarket chain. It's built to empower store managers and business analysts to monitor key performance indicators (KPIs), track trends, and make data-driven decisions. </p>
 
 **Business Value Delivered:**
 
-<p align="justify">This dashboard provides a comprehensive view of performance, drill-down interactivity, and KPI-based trend analysis to support sales monitoring and decision-making. By visualizing complex data in an intuitive way, the SuperShop Sales Analysis Dashboard enables stakeholders to quickly identify top-performing outlets, recognize underperforming product categories, and understand seasonal sales patterns. This empowers management to optimize inventory, refine marketing strategies, and ultimately drive revenue growth.</p>
+<p align="justify"> This dashboard provides a comprehensive view of performance, drill-down interactivity, and KPI-based trend analysis to support sales monitoring and decision-making. By visualizing complex data in an intuitive way, the SuperShop Sales Analysis Dashboard enables stakeholders to quickly identify top-performing outlets, recognize underperforming product categories, and understand seasonal sales patterns. This empowers management to optimize inventory, refine marketing strategies, and ultimately drive revenue growth. </p>
 
 **Links:**
 
