@@ -1,4 +1,4 @@
-# Data Analyst | Business Intelligence Analyst
+# Md. Golam Sarwar-E-Azam – Data Analytics Portfolio
 
 ---
 
