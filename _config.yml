@@ -1,15 +1,10 @@
+title: Md. Golam Sarwar-E-Azam – Data Analytics Portfolio
+description: Data Analyst & BI Consultant
+theme: jekyll-theme-cayman
+#show_downloads: true
+
 #title: Md. Golam Sarwar-E-Azam
 #logo: images/New Image.jpg
 #description: text below image
 #show_downloads: True
 #theme: jekyll-theme-minimal
-title: Md. Golam Sarwar-E-Azam – Data Analytics Portfolio
-description: Data Analyst & BI Consultant
-#show_downloads: true
-#google_analytics:
-theme: jekyll-theme-cayman
-#remote_theme: pages-themes/cayman@v0.2.0
-#plugins:
-#- jekyll-remote-theme # add this line to the plugins list if you already have one
-#title: [Md. Golam Sarwar-E-Azam – Data Analytics Portfolio]
-#description: "Data Analyst & BI Consultant"
