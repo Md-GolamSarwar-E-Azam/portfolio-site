@@ -1,110 +1,87 @@
-# Data Analyst | Business Intelligence Analyst
+# Md. Golam Sarwar-E-Azam 👋
+
+### Data Analyst | Business Intelligence Analyst
+
+---
 
 ## 🔀 Quick Navigation
 
-[**About Me**](#about-me) | [**📂 Portfolio Projects**](#portfolio-projects) | [**💼 Work Experience**](#work-experience) | [**🛠️ Technical Skills**](#technical-skills)
+[**About Me**](#about-me) | [**💼 Work Experience**](#work-experience) | [**🛠️ Technical Skills**](#technical-skills) | [**📂 Portfolio Projects**](#portfolio-projects)
 
 ---
 
 <a id="about-me"></a>
-
 ## About Me
 
-Data Analyst with 4+ years of experience turning complex data into actionable insights. Skilled in SQL, Power BI, Tableau, and Python with strong expertise in data modeling, ETL processes, and dashboard development. Passionate about leveraging data to solve business problems and improve efficiency.
+Results-driven Data Analyst with 4+ years of experience in the full data lifecycle—from building robust ETL pipelines and data warehouses to designing impactful dashboards. My passion lies in transforming complex data into actionable insights that drive business growth and optimize performance. I have a proven track record of developing and deploying BI solutions that have directly increased sales, improved campaign ROI, and enhanced operational efficiency for key clients in the pharmaceutical and retail sectors.
 
-## 💡 What I Do Best
+**What I Do Best**
 
-* Build **impactful dashboards** in Tableau & Power BI
-* Develop **data warehouse & ETL pipelines** (SSIS, Azure Data Factory, BigQuery)
-* Solve problems with **SQL, Python, and DAX**
-* Optimize reporting processes to save hours of manual work
-
----
-
-<a id="technical-skills"></a>
-
-## 🛠️ Technical Skills
-
-* **Data Analysis**: Excel, Google Sheets, SQL (SQL Server, IBM Db2, PostgreSQL, BigQuery, MySQL), Python (Pandas, NumPy, Matplotlib), MATLAB, Minitab
-* **Visualization**: Power BI, Tableau, Google Looker Studio, IBM Cognos
-* **Data Warehousing**: SSIS, Azure Data Factory, Google BigQuery
-* **Programming**: Python
-* **Other Software**: MS Word, PowerPoint, MS Visio, SolidWorks, Premiere Pro
-
----
-
-## 🎓 Education
-
-* **M.Sc., Computer Science & Engineering (Data Science)** | United International University (*Ongoing, CGPA 3.72*)
-* **B.Sc., Industrial & Production Engineering** | Ahsanullah University of Science & Technology (*2020, CGPA 3.67*)
+* **Build impactful dashboards & reports** in Tableau and Power BI.
+* **Design and deploy end-to-end data pipelines** using SSIS, Azure Data Factory, and Google BigQuery.
+* **Extract and transform data** using advanced SQL, Python (Pandas, NumPy), and DAX.
+* **Optimize data processes**, cutting down manual effort and improving reporting efficiency.
 
 ---
 
 <a id="work-experience"></a>
-
 ## 💼 Work Experience
 
-**Data Analyst @ VS One World (*Jan 2024 – Present*)**
+**Data Analyst @ VS One World** | *Jan 2024 – Present*
+* Built Budget & Sales Dashboards to aid strategic financial tracking for a major pharmaceutical client (Square Pharma).
+* Developed a Marketing & Sales Dashboard for Radiant Pharma, which led to a **20% improvement in campaign ROI**.
+* Designed a Sales Performance Dashboard for Paragon Group, contributing to a **10% boost in sales**.
 
-* **Tools & Tech:** Tableau, Power BI | **Languages:** SQL, Python, DAX
+**BI Analyst (Senior Executive) @ 10 Minute School** | *Jun 2023 – Dec 2023*
+* Created an Affiliate KPI Tracker Dashboard, **boosting partner-driven sign-ups by 15%**.
+* Built an Academic Dashboard to analyze student behavior, resulting in a **12% improvement in student retention**.
+* Developed key dashboards for FB & Google Ads to optimize digital marketing performance and ROI.
+* Increased course revenue by **10%** through the development of a Product Revenue Dashboard.
 
-**BI Analyst (Senior Executive) @ 10 Minute School (*Jun 2023 – Dec 2023*)**
+**Data Analyst (Executive) @ Kaz Software** | *Apr 2022 – May 2023*
+* Deployed data warehouse and ETL pipelines using **SSIS, ADF, and Azure SQL** for a major client (Japan Tobacco International).
+* Built a Power BI dashboard to monitor daily efficiency across **60+ field locations**.
+* Enhanced an In-Market Sales Dashboard, **cutting data refresh time by 40%**.
 
-* **Tools & Tech:** Google Cloud Platform, BigQuery, Google Data Studio, Metabase | **Languages:** MySQL, Python
-
-**Data Analyst (Executive) @ Kaz Software (*Apr 2022 – May 2023*)**
-
-* **Tools & Tech:** MS Azure SQL Server, SSMS, SSIS, Azure Data Factory, Visual Studio, Azure DevOps, Power BI Premium | **Languages:** T-SQL, M-Query, DAX
-
-**Assistant Executive (Data Cell) @ Epyllion Group (*Sep 2020 – Nov 2021*)**
+**Assistant Executive (Data Cell) @ Epyllion Group** | *Sep 2020 – Nov 2021*
+* Contributed to the development of RMG database models and ERP system implementation.
+* Converted **10+ Excel dashboards to Power BI**, reducing manual effort by **~60%**.
 
 ---
 
-## 📜 Certifications
+<a id="technical-skills"></a>
+## 🛠️ Technical Skills
 
-* IBM Data Analyst Professional Certificate
-* Tableau Fundamentals, Intermediate, Advanced & Tableau Prep
-* Power BI Data Analytics – 365datascience.com
-* Machine Learning Specialization – Andrew Ng
-* Databases and SQL for Data Science – Coursera
-* Advanced SQL: Logical Query Processing – LinkedIn
-* Python for Data Science, AI & Development – Coursera
-* Statistics Foundation 1, 2 & 3 – LinkedIn
+* **BI & Visualization:** Power BI, Tableau, Google Looker Studio, IBM Cognos, Metabase, Excel
+* **Database & ETL:** SQL (SQL Server, IBM Db2, PostgreSQL, MySQL, BigQuery), SSIS, Azure Data Factory, Google Dataform
+* **Programming & Scripting:** Python (Pandas, NumPy, Matplotlib), T-SQL, M-Query, DAX
+* **Other:** MS Visio, SolidWorks, Premiere Pro
 
 ---
 
 <a id="portfolio-projects"></a>
-
 ## 📂 Portfolio Projects
 
 > **How this section works:** The **image is always visible**. Click **“Show details”** to toggle the description, business value, and links.
-
----
 
 ### 📊 Pharmaceutical Prescription Analysis & Market Overview
 
 <a href="images/Analysis.png"><img src="images/Analysis.png" alt="Pharma Market & Prescription Analysis Dashboard" width="750" /></a>
 
 <details>
-  <summary><strong>Show details</strong></summary>
-
-  <br>
-
-  **Domain:** Pharma Analytics | **Region:** Bangladesh  
-
-  **Summary:**  
-  Developed a comprehensive, interactive dashboard for analyzing prescription trends and market dynamics in the pharmaceutical sector of Bangladesh. The multi-page report enables stakeholders to monitor market share, brand performance, prescriber behavior, competitor benchmarking, and untapped market opportunities—within a single, unified platform.  
-
-  **Business Value Delivered:**  
-  - Granular prescription tracking from national level to individual doctor level  
-  - Competitive benchmarking by product, geography, and specialty  
-  - Identification of white-space markets and brand placement opportunities  
-  - Support for strategic planning and targeting for medical reps and marketing teams  
-
-  **Links:**  
-  - ▶️ **View Dashboard:** [https://tinyurl.com/y7n376yy](https://tinyurl.com/y7n376yy)  
-  - 💻 **View Code (GitHub):** _Add your repo link here_  
-
+  <summary><strong>Show details</strong></summary>
+  <br>
+  **Domain:** Pharma Analytics | **Region:** Bangladesh
+  **Summary:**
+  Developed a comprehensive, interactive dashboard for analyzing prescription trends and market dynamics in the pharmaceutical sector of Bangladesh. The multi-page report enables stakeholders to monitor market share, brand performance, prescriber behavior, competitor benchmarking, and untapped market opportunities—within a single, unified platform.
+  **Business Value Delivered:**
+  - Granular prescription tracking from national level to individual doctor level
+  - Competitive benchmarking by product, geography, and specialty
+  - Identification of white-space markets and brand placement opportunities
+  - Support for strategic planning and targeting for medical reps and marketing teams
+  **Links:**
+  - ▶️ **View Dashboard:** [https://tinyurl.com/y7n376yy](https://tinyurl.com/y7n376yy)
+  - 💻 **View Code (GitHub):** [Add your repo link here]
 </details>
 
 ---
@@ -114,25 +91,17 @@ Data Analyst with 4+ years of experience turning complex data into actionable in
 <a href="images/project2.png"><img src="images/project2.png" alt="Project 2 Preview" width="750" /></a>
 
 <details>
-  <summary><strong>Show details</strong></summary>
-
-  <br>
-
-**Domain:** \[Domain Here] | **Region:** \[Region Here]
-
-**Summary:**
-Short description of project purpose, dataset, techniques used, and insights delivered.
-
-**Business Value Delivered:**
-
-* Point 1
-* Point 2
-
-**Links:**
-
-* ▶️ **View Dashboard:** [https://example.com/dashboard2](https://example.com/dashboard2)
-* 💻 **View Code (GitHub):** [https://github.com/username/repo2](https://github.com/username/repo2)
-
+  <summary><strong>Show details</strong></summary>
+  <br>
+  **Domain:** [Domain Here] | **Region:** [Region Here]
+  **Summary:**
+  Short description of project purpose, dataset, techniques used, and insights delivered.
+  **Business Value Delivered:**
+  * Point 1
+  * Point 2
+  **Links:**
+  * ▶️ **View Dashboard:** [https://example.com/dashboard2](https://example.com/dashboard2)
+  * 💻 **View Code (GitHub):** [https://github.com/username/repo2](https://github.com/username/repo2)
 </details>
 
 ---
@@ -142,26 +111,33 @@ Short description of project purpose, dataset, techniques used, and insights del
 <a href="images/project3.png"><img src="images/project3.png" alt="Project 3 Preview" width="750" /></a>
 
 <details>
-  <summary><strong>Show details</strong></summary>
-
-  <br>
-
-**Domain:** \[Domain Here] | **Region:** \[Region Here]
-
-**Summary:**
-Short description of project purpose, dataset, techniques used, and insights delivered.
-
-**Business Value Delivered:**
-
-* Point 1
-* Point 2
-
-**Links:**
-
-* ▶️ **View Dashboard:** [https://example.com/dashboard3](https://example.com/dashboard3)
-* 💻 **View Code (GitHub):** [https://github.com/username/repo3](https://github.com/username/repo3)
-
+  <summary><strong>Show details</strong></summary>
+  <br>
+  **Domain:** [Domain Here] | **Region:** [Region Here]
+  **Summary:**
+  Short description of project purpose, dataset, techniques used, and insights delivered.
+  **Business Value Delivered:**
+  * Point 1
+  * Point 2
+  **Links:**
+  * ▶️ **View Dashboard:** [https://example.com/dashboard3](https://example.com/dashboard3)
+  * 💻 **View Code (GitHub):** [https://github.com/username/repo3](https://github.com/username/repo3)
 </details>
 
 ---
 
+## 🎓 Education & Certifications
+
+* **M.Sc., Computer Science & Engineering (Data Science)** | United International University *(Ongoing, CGPA 3.72)*
+* **B.Sc., Industrial & Production Engineering** | Ahsanullah University of Science & Technology *(2020, CGPA 3.67)*
+
+**Certifications**
+* **IBM Data Analyst Professional Certificate**
+* **Tableau Fundamentals, Intermediate, & Advanced** (Tableau eLearning)
+* **Power BI Data Analytics** (365datascience.com)
+* **Machine Learning Specialization** (Andrew Ng)
+* **Databases and SQL for Data Science** (Coursera)
+* **Advanced SQL: Logical Query Processing** (LinkedIn)
+* **Python for Data Science, AI & Development** (Coursera)
+
+---
