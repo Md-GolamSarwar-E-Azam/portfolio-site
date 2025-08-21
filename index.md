@@ -206,7 +206,7 @@ theme: jekyll-theme-cayman
 
 **Business Value Delivered:**
 
-<p align="justify"> This dashboard empowers a company's sales and management teams to make **data-driven decisions**. By quickly identifying underperforming regions, product categories, or distributors, the company can deploy targeted interventions. The tool provides real-time insights on distributor segmentation and target achievement, facilitating actionable analysis from the territory to individual party level. Furthermore, the ability to monitor price variance helps in optimizing pricing strategies, ultimately driving sales growth and optimizing operational efficiency. </p>
+<p align="justify"> This dashboard empowers a company's sales and management teams to make data-driven decisions. By quickly identifying underperforming regions, product categories, or distributors, the company can deploy targeted interventions. The tool provides real-time insights on distributor segmentation and target achievement, facilitating actionable analysis from the territory to individual party level. Furthermore, the ability to monitor price variance helps in optimizing pricing strategies, ultimately driving sales growth and optimizing operational efficiency. </p>
 
 **Links:**
 
