@@ -102,7 +102,7 @@ theme: jekyll-theme-cayman
 
 * ▶️ **View Dashboard:** [Click to view the dashboard](https://public.tableau.com/views/PrescriptionAnalysis_17555135714300/Status?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-* 💻 **View Project Details (GitHub):** [Click to view the details of the project](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/tree/cf760cdce8015ae04fb1da4c2c9ab6c791fba4a9/Pharmaceutical%20Prescription%20Analysis%20%26%20Market%20Overview%20Dashboard)
+* 💻 **View Project Details (GitHub):** [Click to view the details of the project](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/f4ba72bd763b957c91e8b0feb3b64aa4332c11ac/Pharmaceutical%20Prescription%20Analysis%20%26%20Market%20Overview%20Dashboard/README.md)
 
 
 
@@ -126,7 +126,7 @@ theme: jekyll-theme-cayman
 
 
 
-* 💻 **View Code (GitHub):** [Click to view project details](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/tree/7a72b806c1ef99c3f075ea8a0ede8f8dff0757ec/Analyzing%20Netflix%20Content%20Trends)
+* 💻 **View Code (GitHub):** [Click to view project details](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/main/Analyzing%20Netflix%20Content%20Trends/readme.md)
 
 
 
@@ -156,7 +156,7 @@ theme: jekyll-theme-cayman
 
 * ▶️ **View Dashboard:** [Click to view the dashboard](https://public.tableau.com/views/SupplierAnalysisdashboard/Supplierwiseanalytics?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-* 💻 **View Project Details (GitHub):** [Click to view the details of the project](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/main/Supplier%20Performance%20&%20Promotion%20Analysis%20Dashboard/readme.md)
+* 💻 **View Project Details (GitHub):** [Click to view the details of the project](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/main/Supplier%20Performance%20%26%20Promotion%20Analysis%20Dashboard/readme.md)
 
 
 
@@ -186,7 +186,7 @@ theme: jekyll-theme-cayman
 
 * ▶️ **View Dashboard:** [Click to view the dashboard](https://public.tableau.com/views/BevarageOperationAnalysis/Summary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-* 💻 **View Project Details (GitHub):** [Click to view the details of the project](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/b2cd4be9e6ddd8ef6aa10ca9814d19ace0a4f7dd/Bevarage%20Operation%20Analysis%20Dashboard/readme.md)
+* 💻 **View Project Details (GitHub):** [Click to view the details of the project](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/main/Bevarage%20Operation%20Analysis%20Dashboard/readme.md)
 
 
 ---
@@ -240,7 +240,7 @@ theme: jekyll-theme-cayman
 
 * ▶️ **View Dashboard:** [Click to view the dashboard](https://public.tableau.com/views/SupershopSalesAnalytics/Summary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-* 💻 **View Project Details (GitHub):** [Click to view the details of the project](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/tree/c2c4d257e703dbfbe22a37d4320067c4f9a7ba2f/Supershop%20Sales%20Analytics)
+* 💻 **View Project Details (GitHub):** [Click to view the details of the project](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/main/Supershop%20Sales%20Analytics/readme.md)
 
 
 ---
