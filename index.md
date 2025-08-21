@@ -214,7 +214,7 @@ theme: jekyll-theme-cayman
 
 * ▶️ **View Dashboard:** [Click to view the dashboard](https://public.tableau.com/views/FeedSales_TargetOverview/Summary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-* 💻 **View Project Details (GitHub):** [Click to view the details of the project](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/f4ba72bd763b957c91e8b0feb3b64aa4332c11ac/Agro%20Feed%20%20Sales%20Overview%20Dashboard/readme.md)
+* 💻 **View Project Details (GitHub):** [Click to view the details of the project](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/main/Agro%20Feed%20%20Sales%20Overview%20Dashboard/readme.md)
 
 ---
 
