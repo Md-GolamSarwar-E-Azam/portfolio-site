@@ -78,7 +78,7 @@ theme: jekyll-theme-cayman
 
 **Project Summary:**
 
-<p align="justify">Developed a comprehensive, interactive dashboard for analyzing prescription trends and market dynamics in the pharmaceutical sector of Bangladesh. The multi-page report enables stakeholders to monitor market share, brand performance, prescriber behavior, competitor benchmarking, and untapped market opportunities—within a single, unified platform. </p>
+<p align="justify">Developed a comprehensive, interactive dashboard for analyzing prescription trends and market dynamics in the pharmaceutical sector of Bangladesh. The multi-page report enables stakeholders to monitor market share, brand performance, prescriber behavior, competitor benchmarking, and untapped market opportunities within a single, unified platform. </p>
 
 
 
@@ -102,7 +102,7 @@ theme: jekyll-theme-cayman
 
 * ▶️ **View Dashboard:** [Click to view the dashboard](https://public.tableau.com/views/PrescriptionAnalysis_17555135714300/Status?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-* 💻 **View Project Details (GitHub):** [Click to view the details of the project](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/tree/f81e7b96b1493fffcec622f73d3b38c4dcb9b4a9/Pharmaceutical%20Prescription%20Analysis%20%26%20Market%20Overview%20Dashboard)
+* 💻 **View Project Details (GitHub):** [Click to view the details of the project](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/tree/cf760cdce8015ae04fb1da4c2c9ab6c791fba4a9/Pharmaceutical%20Prescription%20Analysis%20%26%20Market%20Overview%20Dashboard)
 
 
 
