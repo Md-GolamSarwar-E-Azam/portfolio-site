@@ -178,7 +178,7 @@ theme: jekyll-theme-cayman
 
 **Business Value Delivered:**
 
-<p align="justify"> This dashboard empowers a beverage company's sales and management teams to make **data-driven decisions**. By quickly identifying underperforming regions, clusters, grades, or channels, the company can deploy targeted interventions. For example, a high percentage of degraded outlets in a specific cluster could prompt a review of local market conditions or a change in sales strategy. The cohort analysis also enables the tracking of outlet health over time, highlighting both successes to replicate and persistent challenges to address, ultimately driving sales growth and optimizing operational efficiency. </p>
+<p align="justify"> This dashboard empowers a beverage company's sales and management teams to make data-driven decisions. By quickly identifying underperforming regions, clusters, grades, or channels, the company can deploy targeted interventions. For example, a high percentage of degraded outlets in a specific cluster could prompt a review of local market conditions or a change in sales strategy. The cohort analysis also enables the tracking of outlet health over time, highlighting both successes to replicate and persistent challenges to address, ultimately driving sales growth and optimizing operational efficiency. </p>
 
 **Links:**
 
