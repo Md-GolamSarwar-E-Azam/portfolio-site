@@ -102,7 +102,7 @@ theme: jekyll-theme-cayman
 
 * ▶️ **View Dashboard:** [Click to view the dashboard](https://public.tableau.com/views/PrescriptionAnalysis_17555135714300/Status?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-* 💻 **View Project Details (GitHub):** [Click to view the details of the project](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/f4ba72bd763b957c91e8b0feb3b64aa4332c11ac/Pharmaceutical%20Prescription%20Analysis%20%26%20Market%20Overview%20Dashboard/README.md)
+* 💻 **View Project Details (GitHub):** [Click to view the details of the project](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/main/Pharmaceutical%20Prescription%20Analysis%20%26%20Market%20Overview%20Dashboard/README.md)
 
 
 
