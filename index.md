@@ -57,7 +57,7 @@ theme: jekyll-theme-cayman
 <a id="power-bi-projects"></a>
 
 #### 📊 Superstore Sales Analysis
-<a href="images/Project Netflix.png"><img src="images/SuperStore_SalesAnalysis.jpg" alt="Project Preview" width="750" /></a>
+<a href="images/images/SuperStore_SalesAnalysis.jpg"><img src="images/SuperStore_SalesAnalysis.jpg" alt="Project Preview" width="750" /></a>
 
 **Project Summary:**  
 <p align="justify">Analyzed superstore sales data to gain insights into sales performance, profitability, and customer behavior. Developed a comprehensive dashboard using Power BI to identify opportunities for improvement and optimize business operations.</p>
@@ -65,6 +65,19 @@ theme: jekyll-theme-cayman
 **Links:**
 * 💻 **View Code (GitHub):** [Click to view project details](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/tree/main/Optimize%20Operations%20and%20Drive%20Growth%20in%20a%20Superstore)
 * 
+---
+#### 📊 Customer Satisfaction and Loyalty Analysis
+<a href="images/CustomerSatisfactionAtAkash.jpg"><img src="CustomerSatisfactionAtAkash.jpg" alt="Project Preview" width="750" /></a>
+
+**Project Summary:**  
+<p align="justify">Analyzed Akash Digital TV customer churn data using Power BI to identify key factors influencing customer retention. Developed targeted retention strategies and optimized subscription packages to improve customer satisfaction and reduce churn.</p>
+
+**Links:**
+* 💻 **View Code (GitHub):** [Click to view project details](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/tree/main/Improve%20Customer%20Satisfaction%20and%20Loyalty%20at%20Akash%20Digital%20TV)
+* 
+
+
+
 ---
 ### 🔹 SQL Projects
 <a id="sql-projects"></a>
