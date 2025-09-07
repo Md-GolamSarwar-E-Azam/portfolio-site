@@ -5,11 +5,17 @@ theme: jekyll-theme-cayman
 ---
 
 ## 🔀 Quick Navigation
-[**About Me**](#about-me) |  
-[**🛠️ Technical Skills**](#technical-skills) |  
-[**📂 Portfolio Projects**](#portfolio-projects) → [Power BI](#power-bi-projects) | [Tableau](#tableau-projects) | [ML](#ml-projects) |  
-[**🎓 Education & Certifications**](#education-and-certifications) |  
-[**💼 Work Experience**](#work-experience)
+<p align="center">
+<a href="#about-me"><b>About Me</b></a> &nbsp; | &nbsp;
+<a href="#technical-skills"><b>🛠️ Technical Skills</b></a> &nbsp; | &nbsp;
+<a href="#portfolio-projects"><b>📂 Portfolio Projects</b></a> → 
+<a href="#power-bi-projects">Power BI</a> | 
+<a href="#sql-projects">SQL</a> | 
+<a href="#tableau-projects">Tableau</a> | 
+<a href="#ml-projects">ML</a> &nbsp; | &nbsp;
+<a href="#education-and-certifications"><b>🎓 Education & Certifications</b></a> &nbsp; | &nbsp;
+<a href="#work-experience"><b>💼 Work Experience</b></a>
+</p>
 
 ---
 
@@ -51,10 +57,24 @@ theme: jekyll-theme-cayman
 <a id="power-bi-projects"></a>
 <!-- Add Power BI projects here -->
 
-### 🔹 Tableau Projects
-<a id="tableau-projects"></a>
+### 🔹 SQL Projects
+<a id="sql-projects"></a>
 
 ---
+
+#### 📊 Analyzing Netflix Content Trends
+<a href="images/Project Netflix.png"><img src="images/Project Netflix.png" alt="Project Preview" width="750" /></a>
+
+**Project Summary:**  
+<p align="justify">Explored Netflix dataset using SQL queries to understand content trends, growth, and popularity. Key insights include country association, top directors, movie vs. TV show balance, and genre growth rates. </p>
+
+**Links:**
+* 💻 **View Code (GitHub):** [Click to view project details](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/main/Analyzing%20Netflix%20Content%20Trends/readme.md)
+
+---
+
+### 🔹 Tableau Projects
+<a id="tableau-projects"></a>
 
 #### 📊 Pharmaceutical Prescription Analysis & Market Overview
 <a href="images/Analysis.png"><img src="images/Analysis.png" alt="Project 1 Preview" width="750" /></a>
@@ -71,17 +91,6 @@ theme: jekyll-theme-cayman
 **Links:**
 * ▶️ **View Dashboard:** [Click to view the dashboard](https://public.tableau.com/views/PrescriptionAnalysis_17555135714300/Status?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 * 💻 **View Project Details (GitHub):** [Click to view project details](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/main/Pharmaceutical%20Prescription%20Analysis%20%26%20Market%20Overview%20Dashboard/README.md)
-
----
-
-#### 📊 Analyzing Netflix Content Trends
-<a href="images/Project Netflix.png"><img src="images/Project Netflix.png" alt="Project 2 Preview" width="750" /></a>
-
-**Project Summary:**  
-<p align="justify"> Explored Netflix dataset to understand content trends, growth, and popularity. Key findings include country association, top directors, movie vs. TV show balance, and genre growth rates. </p>
-
-**Links:**
-* 💻 **View Code (GitHub):** [Click to view project details](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/main/Analyzing%20Netflix%20Content%20Trends/readme.md)
 
 ---
 
