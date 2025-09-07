@@ -55,8 +55,13 @@ theme: jekyll-theme-cayman
 
 ### 🔹 Power BI Projects
 <a id="power-bi-projects"></a>
-<!-- Add Power BI projects here -->
 
+#### 📊 Superstore Sales Analysis
+<a href="images/Project Netflix.png"><img src="images/SuperStore_SalesAnalysis.jpg" alt="Project Preview" width="750" /></a>
+**Project Summary:**  
+<p align="justify">Analyzed superstore sales data to gain insights into sales performance, profitability, and customer behavior. Developed a comprehensive dashboard using Power BI to identify opportunities for improvement and optimize business operations.</p>
+
+---
 ### 🔹 SQL Projects
 <a id="sql-projects"></a>
 
