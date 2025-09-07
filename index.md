@@ -67,7 +67,7 @@ theme: jekyll-theme-cayman
 
 ---
 #### 📊 Customer Satisfaction and Loyalty Analysis
-<a href="images/CustomerSatisfactionAtAkash.jpg"><img src="CustomerSatisfactionAtAkash.jpg" alt="Project Preview" /></a>
+<a href="images/CustomerSatisfactionAtAkash.jpg"><img src="images/CustomerSatisfactionAtAkash.jpg" alt="Project Preview" width="750" /></a>
 
 **Project Summary:**  
 <p align="justify">Analyzed Akash Digital TV customer churn data using Power BI to identify key factors influencing customer retention. Developed targeted retention strategies and optimized subscription packages to improve customer satisfaction and reduce churn.</p>
