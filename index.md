@@ -5,13 +5,16 @@ theme: jekyll-theme-cayman
 ---
 
 ## 🔀 Quick Navigation
-[**About Me**](#about-me) |  [**🛠️ Technical Skills**](#technical-skills) | [**📂 Portfolio Projects**](#portfolio-projects) | [**🎓 Education & Certifications**](#education-and-certifications) |  [**💼 Work Experience**](#work-experience) 
+[**About Me**](#about-me) |  
+[**🛠️ Technical Skills**](#technical-skills) |  
+[**📂 Portfolio Projects**](#portfolio-projects) → [Power BI](#power-bi-projects) | [Tableau](#tableau-projects) | [ML](#ml-projects) |  
+[**🎓 Education & Certifications**](#education-and-certifications) |  
+[**💼 Work Experience**](#work-experience)
 
 ---
+
 <p align="left">
-
   <img src="images/New Image.jpg" alt="Md. Golam Sarwar-E-Azam" width="200" style="border-radius:50%;">
-
 </p>
 
 <a id="about-me"></a>
@@ -20,21 +23,12 @@ theme: jekyll-theme-cayman
 
 <p align="justify">Results-driven Data Analyst with 4+ years of experience in the full data lifecycle from building robust ETL pipelines and data warehouses to designing impactful dashboards. My passion lies in transforming complex data into actionable insights that drive business growth and optimize performance. I have a proven track record of developing and deploying BI solutions that have directly increased sales, improved campaign ROI, and enhanced operational efficiency for a variety of key clients. </p>
 
-
-
 **What I Do Best**
 
-
-
 * **Build impactful dashboards & reports** in Tableau and Power BI.
-
 * **Design and deploy end-to-end data pipelines** using SSIS, Azure Data Factory, and Google BigQuery.
-
 * **Extract and transform data** using advanced SQL, Python (Pandas, NumPy), and DAX.
-
 * **Optimize data processes**, cutting down manual effort and improving reporting efficiency.
-
-
 
 ---
 
@@ -42,235 +36,133 @@ theme: jekyll-theme-cayman
 
 ## 🛠️ Technical Skills
 
-
-
 * **BI & Visualization:** Power BI, Tableau, Google Looker Studio, IBM Cognos, Metabase, Excel
-
 * **Database & ETL:** SQL (SQL Server, IBM Db2, PostgreSQL, MySQL, BigQuery), SSIS, Azure Data Factory, Google Dataform
-
 * **Programming & Scripting:** Python (Pandas, NumPy, Matplotlib), T-SQL, M-Query, DAX
-
 * **Other:** MS Visio, SolidWorks, Premiere Pro
 
-
-
 ---
-
-
 
 <a id="portfolio-projects"></a>
 
 ## 📂 Portfolio Projects
 
+### 🔹 Power BI Projects
+<a id="power-bi-projects"></a>
+<!-- Add Power BI projects here -->
 
+### 🔹 Tableau Projects
+<a id="tableau-projects"></a>
 
 ---
 
-
-
-### 📊 Pharmaceutical Prescription Analysis & Market Overview
-
-
-
+#### 📊 Pharmaceutical Prescription Analysis & Market Overview
 <a href="images/Analysis.png"><img src="images/Analysis.png" alt="Project 1 Preview" width="750" /></a>
 
-
-
-**Project Summary:**
-
+**Project Summary:**  
 <p align="justify">Developed a comprehensive, interactive dashboard for analyzing prescription trends and market dynamics in the pharmaceutical sector of Bangladesh. The multi-page report enables stakeholders to monitor market share, brand performance, prescriber behavior, competitor benchmarking, and untapped market opportunities within a single, unified platform. </p>
 
-
-
 **Business Value Delivered:**
-
-
-
 * Granular prescription tracking from national level to individual doctor level
-
 * Competitive benchmarking by product, geography, and specialty
-
 * Identification of white-space markets and brand placement opportunities
-
 * Support for strategic planning and targeting for medical reps and marketing teams
 
-
-
 **Links:**
-
-
-
 * ▶️ **View Dashboard:** [Click to view the dashboard](https://public.tableau.com/views/PrescriptionAnalysis_17555135714300/Status?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-* 💻 **View Project Details (GitHub):** [Click to view the details of the project](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/main/Pharmaceutical%20Prescription%20Analysis%20%26%20Market%20Overview%20Dashboard/README.md)
-
-
+* 💻 **View Project Details (GitHub):** [Click to view project details](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/main/Pharmaceutical%20Prescription%20Analysis%20%26%20Market%20Overview%20Dashboard/README.md)
 
 ---
 
-
-
-### 📊 Analyzing Netflix Content Trends
-
-
-
+#### 📊 Analyzing Netflix Content Trends
 <a href="images/Project Netflix.png"><img src="images/Project Netflix.png" alt="Project 2 Preview" width="750" /></a>
 
-
-
-**Project Summary:**
-
+**Project Summary:**  
 <p align="justify"> Explored Netflix dataset to understand content trends, growth, and popularity. Key findings include country association, top directors, movie vs. TV show balance, and genre growth rates. </p>
 
 **Links:**
-
-
-
 * 💻 **View Code (GitHub):** [Click to view project details](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/main/Analyzing%20Netflix%20Content%20Trends/readme.md)
 
-
-
 ---
 
-
-
-### 📊 📦 Supplier Performance & Promotion Analysis Dashboard
-
-
-
+#### 📊 Supplier Performance & Promotion Analysis Dashboard
 <a href="images/Supplier analytics.png"><img src="images/Supplier analytics.png" alt="Project 3 Preview" width="750" /></a>
 
+**Project Summary:**  
+<p align="justify"> Developed a Supplier Profitability and Contribution Dashboard for SuperShop, designed to provide decision-makers with clear insights into supplier performance, sales contribution, and profitability. </p>
 
-
-**Project Summary:**
-
-<p align="justify"> Developed a Supplier Profitability and Contribution Dashboard for SuperShop, designed to provide decision-makers with clear insights into supplier performance, sales contribution, and profitability. The dashboard leverages interactive filters, scenario analysis, and visualizations to identify key suppliers, monitor trends, and drive data-backed business strategies. </p>
-
-**Business Value Delivered:**
-
-<p align="justify"> The dashboard enabled SuperShop’s management to quickly identify high-value suppliers, track underperforming ones, and optimize purchasing and promotional strategies. By visualizing profitability drivers and sales concentration, decision-makers were able to prioritize top contributors, negotiate better supplier terms, and reduce losses from low-margin partners. Overall, the solution improved transparency in supplier performance, supported data-driven negotiations, and strengthened the company’s ability to align supply strategies with revenue goals. </p>
+**Business Value Delivered:**  
+<p align="justify"> Enabled management to identify high-value suppliers, track underperforming ones, optimize purchasing & promotional strategies, and strengthen supply strategy alignment with revenue goals. </p>
 
 **Links:**
-
-
-
 * ▶️ **View Dashboard:** [Click to view the dashboard](https://public.tableau.com/views/SupplierAnalysisdashboard/Supplierwiseanalytics?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-* 💻 **View Project Details (GitHub):** [Click to view the details of the project](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/main/Supplier%20Performance%20%26%20Promotion%20Analysis%20Dashboard/readme.md)
-
-
+* 💻 **View Project Details (GitHub):** [Click to view project details](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/main/Supplier%20Performance%20%26%20Promotion%20Analysis%20Dashboard/readme.md)
 
 ---
 
-
-
-### 📊 Beverage Company Outlet Operations Analysis Dashboard
-
-
-
+#### 📊 Beverage Company Outlet Operations Analysis Dashboard
 <a href="images/Beverage.png"><img src="images/Beverage.png" alt="Project 4 Preview" width="750" /></a>
 
+**Project Summary:**  
+<p align="justify"> This dashboard focuses on operational performance of beverage sales outlets, tracking trends and KPIs to identify areas of improvement. </p>
 
-
-**Project Summary:**
-
-<p align="justify"> This project presents a data analysis dashboard for a beverage company, focusing on the operational performance of its sales outlets. The dashboard provides a comprehensive overview of sales trends and outlet performance using key metrics and visualizations, allowing stakeholders to quickly identify areas of improvement and monitor operational health. </p>
-
-**Business Value Delivered:**
-
-<p align="justify"> This dashboard empowers a beverage company's sales and management teams to make data-driven decisions. By quickly identifying underperforming regions, clusters, grades, or channels, the company can deploy targeted interventions. For example, a high percentage of degraded outlets in a specific cluster could prompt a review of local market conditions or a change in sales strategy. The cohort analysis also enables the tracking of outlet health over time, highlighting both successes to replicate and persistent challenges to address, ultimately driving sales growth and optimizing operational efficiency. </p>
+**Business Value Delivered:**  
+<p align="justify"> Enables sales and management teams to make targeted interventions, track outlet health, and optimize operational efficiency and sales growth. </p>
 
 **Links:**
-
-
-
 * ▶️ **View Dashboard:** [Click to view the dashboard](https://public.tableau.com/views/BevarageOperationAnalysis/Summary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-* 💻 **View Project Details (GitHub):** [Click to view the details of the project](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/main/Bevarage%20Operation%20Analysis%20Dashboard/readme.md)
-
+* 💻 **View Project Details (GitHub):** [Click to view project details](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/main/Bevarage%20Operation%20Analysis%20Dashboard/readme.md)
 
 ---
 
-
-
-### 📊 Agro Feed Sales Performance Dashboard
-
-
+#### 📊 Agro Feed Sales Performance Dashboard
 <a href="images/feed.png"><img src="images/feed.png" alt="Project 5 Preview" width="750" /></a>
 
+**Project Summary:**  
+<p align="justify"> Dashboard for tracking sales outlet and product performance for an agribusiness company. </p>
 
-
-**Project Summary:**
-
-<p align="justify"> This project presents a data analysis dashboard for a leading agribusiness company, focusing on the operational performance of its sales outlets and products. The dashboard provides a comprehensive overview of sales trends and outlet performance using key metrics and visualizations, allowing stakeholders to quickly identify areas of improvement and monitor operational health. </p>
-
-**Business Value Delivered:**
-
-<p align="justify"> This dashboard empowers a company's sales and management teams to make data-driven decisions. By quickly identifying underperforming regions, product categories, or distributors, the company can deploy targeted interventions. The tool provides real-time insights on distributor segmentation and target achievement, facilitating actionable analysis from the territory to individual party level. Furthermore, the ability to monitor price variance helps in optimizing pricing strategies, ultimately driving sales growth and optimizing operational efficiency. </p>
+**Business Value Delivered:**  
+<p align="justify"> Facilitates actionable insights for sales interventions, distributor segmentation, target monitoring, and pricing optimization. </p>
 
 **Links:**
-
-
-
 * ▶️ **View Dashboard:** [Click to view the dashboard](https://public.tableau.com/views/FeedSales_TargetOverview/Summary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-* 💻 **View Project Details (GitHub):** [Click to view the details of the project](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/main/Agro%20Feed%20%20Sales%20Overview%20Dashboard/readme.md)
+* 💻 **View Project Details (GitHub):** [Click to view project details](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/main/Agro%20Feed%20%20Sales%20Overview%20Dashboard/readme.md)
 
 ---
 
-
-### 📊 Supershop Sales Analytics Dashboard
-
-
+#### 📊 Supershop Sales Analytics Dashboard
 <a href="images/SuperShop Sales.png"><img src="images/SuperShop Sales.png" alt="Project 6 Preview" width="750" /></a>
 
+**Project Summary:**  
+<p align="justify"> Comprehensive SuperShop Sales Analysis Dashboard for monitoring KPIs and trends. </p>
 
-
-**Project Summary:**
-
-<p align="justify"> This project is a comprehensive **SuperShop Sales Analysis Dashboard** designed to provide in-depth insights into the sales performance and trends of a supermarket chain. It's built to empower store managers and business analysts to monitor key performance indicators (KPIs), track trends, and make data-driven decisions. </p>
-
-**Business Value Delivered:**
-
-<p align="justify"> This dashboard provides a comprehensive view of performance, drill-down interactivity, and KPI-based trend analysis to support sales monitoring and decision-making. By visualizing complex data in an intuitive way, the SuperShop Sales Analysis Dashboard enables stakeholders to quickly identify top-performing outlets, recognize underperforming product categories, and understand seasonal sales patterns. This empowers management to optimize inventory, refine marketing strategies, and ultimately drive revenue growth. </p>
+**Business Value Delivered:**  
+<p align="justify"> Supports data-driven decisions, highlights top-performing outlets, underperforming products, and seasonal trends to optimize inventory and marketing strategies. </p>
 
 **Links:**
-
-
-
 * ▶️ **View Dashboard:** [Click to view the dashboard](https://public.tableau.com/views/SupershopSalesAnalytics/Summary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-* 💻 **View Project Details (GitHub):** [Click to view the details of the project](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/main/Supershop%20Sales%20Analytics/readme.md)
-
+* 💻 **View Project Details (GitHub):** [Click to view project details](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/main/Supershop%20Sales%20Analytics/readme.md)
 
 ---
+
+### 🔹 ML Projects
+<a id="ml-projects"></a>
+<!-- Add Machine Learning projects here -->
 
 <a id="education-and-certifications"></a>
 
 ## 🎓 Education & Certifications
 
-
-
 * **M.Sc., Computer Science & Engineering (Data Science)** | United International University *(Ongoing, CGPA 3.72)*
-
 * **B.Sc., Industrial & Production Engineering** | Ahsanullah University of Science & Technology *(2020, CGPA 3.67)*
 
-
-
 **Certifications**
-
 * **IBM Data Analyst Professional Certificate**
-
 * **Tableau Fundamentals, Intermediate, & Advanced** (Tableau eLearning)
-
 * **Power BI Data Analytics** (365datascience.com)
-
 * **Machine Learning Specialization** (Andrew Ng)
-
 * **Databases and SQL for Data Science** (Coursera)
-
 * **Advanced SQL: Logical Query Processing** (LinkedIn)
-
 * **Python for Data Science, AI & Development** (Coursera)
 
 ---
@@ -279,43 +171,22 @@ theme: jekyll-theme-cayman
 
 ## 💼 Work Experience
 
-
-
 **Data Analyst @ VS One World** | *Jan 2024 – Present*
-
 * Built Budget & Sales Dashboards to aid strategic financial tracking for a major pharmaceutical client (Square Pharma).
-
 * Developed a Marketing & Sales Dashboard for Radiant Pharma, which led to a **20% improvement in campaign ROI**.
-
 * Designed a Sales Performance Dashboard for Paragon Group, contributing to a **10% boost in sales**.
 
-
-
 **BI Analyst (Senior Executive) @ 10 Minute School** | *Jun 2023 – Dec 2023*
-
 * Created an Affiliate KPI Tracker Dashboard, **boosting partner-driven sign-ups by 15%**.
-
 * Built an Academic Dashboard to analyze student behavior, resulting in a **12% improvement in student retention**.
-
 * Developed key dashboards for FB & Google Ads to optimize digital marketing performance and ROI.
-
 * Increased course revenue by **10%** through the development of a Product Revenue Dashboard.
 
-
-
 **Data Analyst (Executive) @ Kaz Software** | *Apr 2022 – May 2023*
-
 * Deployed data warehouse and ETL pipelines using **SSIS, ADF, and Azure SQL** for a major client (Japan Tobacco International).
-
 * Built a Power BI dashboard to monitor daily efficiency across **60+ field locations**.
-
 * Enhanced an In-Market Sales Dashboard, **cutting data refresh time by 40%**.
 
-
-
 **Assistant Executive (Data Cell) @ Epyllion Group** | *Sep 2020 – Nov 2021*
-
 * Contributed to the development of RMG database models and ERP system implementation.
-
 * Converted **10+ Excel dashboards to Power BI**, reducing manual effort by **~60%**.
-
