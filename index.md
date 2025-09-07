@@ -87,7 +87,7 @@ theme: jekyll-theme-cayman
 
 ---
 #### 📊 Shipment Status Dashboard
-<a href="images/ShipmentStatus.jpg.jpg"><img src="images/ShipmentStatus.jpg.jpg" alt="Project Preview" width="750" /></a>
+<a href="images/ShipmentStatus.jpg"><img src="images/ShipmentStatus.jpg" alt="Project Preview" width="750" /></a>
 
 **Project Summary:**  
 <p align="justify">In this project I have developed a Shipment Status Dashboard for manufacturing factories to monitor shipment and packing performance against planned quantities. The dashboard provides real-time visibility into shipment balance, packaging status, and order performance, enabling better coordination between departments and buyers.</p>
