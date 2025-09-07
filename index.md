@@ -74,6 +74,16 @@ theme: jekyll-theme-cayman
 
 **Links:**
 * 💻 **View Code (GitHub):** [Click to view project details](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/tree/main/Improve%20Customer%20Satisfaction%20and%20Loyalty%20at%20Akash%20Digital%20TV)
+
+---
+#### 📊 Manufacturing Efficiency Analysis
+<a href="images/Manufacturing_Efficiency.jpg"><img src="images/Manufacturing_Efficiency.jpg" alt="Project Preview" width="750" /></a>
+
+**Project Summary:**  
+<p align="justify">Analyzed RMG factory manufacturing efficiency data to identify bottlenecks, optimize production planning, and reduce non-productive time. Developed a dashboard using Power BI to visualize key metrics and enable data-driven decision-making.</p>
+
+**Links:**
+* 💻 **View Code (GitHub):** [Click to view project details](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/main/Manufacturing%20Efficiency%20Dashboard%20using%20Power%20BI/readme.md)
  
 ---
 ### 🔹 SQL Projects
