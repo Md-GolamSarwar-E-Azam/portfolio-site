@@ -58,9 +58,13 @@ theme: jekyll-theme-cayman
 
 #### 📊 Superstore Sales Analysis
 <a href="images/Project Netflix.png"><img src="images/SuperStore_SalesAnalysis.jpg" alt="Project Preview" width="750" /></a>
+
 **Project Summary:**  
 <p align="justify">Analyzed superstore sales data to gain insights into sales performance, profitability, and customer behavior. Developed a comprehensive dashboard using Power BI to identify opportunities for improvement and optimize business operations.</p>
 
+**Links:**
+* 💻 **View Code (GitHub):** [Click to view project details](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/tree/main/Optimize%20Operations%20and%20Drive%20Growth%20in%20a%20Superstore)
+* 
 ---
 ### 🔹 SQL Projects
 <a id="sql-projects"></a>
