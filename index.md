@@ -195,6 +195,18 @@ theme: jekyll-theme-cayman
 
 ### 🔹 ML Projects
 <a id="ml-projects"></a>
+
+#### 📊 IOT Driven Crop Recommender System
+<a href="images/Crop Recommender System.png"><img src="images/Crop Recommender System.png" alt="Project 6 Preview" width="750" /></a>
+
+**Project Summary:**  
+<p align="justify"> IoT-based crop recommender system for precision agriculture. Provides real-time crop recommendations using sensor data, machine learning, and cloud computing. Optimizes resource utilization, increases crop productivity, and minimizes environmental impact. </p>
+
+**Links:**
+* ▶️ **View App:** [Click to view the Web App](https://croprecommender.anvil.app/)
+* 💻 **View Project Details (GitHub):** [Click to view project details](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/tree/main/IOT%20Driven%20Crop%20Recommender%20System)
+* ▶️ **View Colab Notebook:** [Click to view the Web App](https://colab.research.google.com/drive/1S74GQ0mPJ7lsJaxWqShPSXyjwYYaUbUw)
+
 <!-- Add Machine Learning projects here -->
 
 <a id="education-and-certifications"></a>
