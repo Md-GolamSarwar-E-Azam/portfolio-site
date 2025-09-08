@@ -63,7 +63,7 @@ theme: jekyll-theme-cayman
 <p align="justify">Analyzed superstore sales data to gain insights into sales performance, profitability, and customer behavior. Developed a comprehensive dashboard using Power BI to identify opportunities for improvement and optimize business operations.</p>
 
 **Links:**
-* 💻 **View Code (GitHub):** [Click to view project details](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/tree/main/Optimize%20Operations%20and%20Drive%20Growth%20in%20a%20Superstore)
+* 💻 **View Code (GitHub):** [Click to view project details](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/main/Optimize%20Operations%20and%20Drive%20Growth%20in%20a%20Superstore/readme.md)
 
 ---
 #### 📊 Customer Satisfaction and Loyalty Analysis
@@ -73,7 +73,7 @@ theme: jekyll-theme-cayman
 <p align="justify">Analyzed Akash Digital TV customer churn data using Power BI to identify key factors influencing customer retention. Developed targeted retention strategies and optimized subscription packages to improve customer satisfaction and reduce churn.</p>
 
 **Links:**
-* 💻 **View Code (GitHub):** [Click to view project details](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/tree/main/Improve%20Customer%20Satisfaction%20and%20Loyalty%20at%20Akash%20Digital%20TV)
+* 💻 **View Code (GitHub):** [Click to view project details](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/main/Improve%20Customer%20Satisfaction%20and%20Loyalty%20at%20Akash%20Digital%20TV/readme.md)
 
 ---
 #### 📊 Manufacturing Efficiency Analysis
@@ -204,8 +204,33 @@ theme: jekyll-theme-cayman
 
 **Links:**
 * ▶️ **View App:** [Click to view the Web App](https://croprecommender.anvil.app/)
-* 💻 **View Project Details (GitHub):** [Click to view project details](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/tree/main/IOT%20Driven%20Crop%20Recommender%20System)
-* ▶️ **View Colab Notebook:** [Click to view the Web App](https://colab.research.google.com/drive/1S74GQ0mPJ7lsJaxWqShPSXyjwYYaUbUw)
+* 💻 **View Project Details (GitHub):** [Click to view project details](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/main/IOT%20Driven%20Crop%20Recommender%20System/readme.md)
+* ▶️ **View Colab Notebook:** [Click to view the code](https://colab.research.google.com/drive/1S74GQ0mPJ7lsJaxWqShPSXyjwYYaUbUw)
+
+---
+#### 📊 Rainfall Prediction from 65 Years of Weather data of Bangladesh using supervised machine learning algorithms
+<a href="images/RainfallPrediction.png"><img src="images/RainfallPrediction.png" alt="Project 6 Preview" width="750" /></a>
+
+**Project Summary:**  
+<p align="justify"> Rainfall prediction model for Bangladesh using supervised machine learning. Achieved 0.7644 R-squared and 99.12 RMSE using Polynomial Regression. Demonstrates potential for agricultural planning and disaster management. </p>
+
+**Links:**
+* 💻 **View Project Details (GitHub):** [Click to view project details](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/main/Rainfall%20Prediction%20from%2065%20Years%20of%20Weather%20data%20of%20Bangladesh%20using%20supervised%20machine%20learning%20algorithms/readme.md)
+* ▶️ **View Colab Notebook:** [Click to view the code](https://colab.research.google.com/drive/1GMw2AFhALPT_xZA8flXm-0dSD0uExhuY?authuser=1#scrollTo=8_FyW7E-4mpg)
+
+---
+#### 📊 Banhladeshi Bank Note Detection Using CNN
+<a href="images/BankNote.png"><img src="images/BankNote.png" alt="Project 6 Preview" width="750" /></a>
+
+**Project Summary:**  
+<p align="justify"> CNN-based banknote recognition system accurately classifies Bangladeshi banknotes, even those that are old or worn-out. Achieved 92.67% validation accuracy, suitable for ATMs, currency exchange centers, and other financial institutions. </p>
+
+**Links:**
+* 💻 **View Project Details (GitHub):** [Click to view project details](https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/main/Banhladeshi%20Bank%20Note%20Detection%20Using%20CNN/readme.md)
+* ▶️ **View Colab Notebook:** [Click to view the code](https://colab.research.google.com/drive/1nqbh2Da5HsLAqikExeB5nWm_jV1myqvX?usp=sharing)
+
+---
+
 
 <!-- Add Machine Learning projects here -->
 
