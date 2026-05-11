@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Md. Golam Sarwar-E-Azam | Data Analytics Portfolio</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <style>
+        .bento-card { @apply bg-gray-900 border border-gray-800 p-6 rounded-2xl hover:border-blue-500 transition-all duration-300; }
+        .gradient-text { @apply bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-emerald-400 font-bold; }
+    </style>
+</head>
+<body class="bg-black text-gray-100 font-sans leading-relaxed">
+
+    <nav class="fixed w-full z-50 bg-black/80 backdrop-blur-md border-b border-gray-800">
+        <div class="max-w-6xl mx-auto px-6 py-4 flex justify-between items-center">
+            <span class="text-xl font-bold tracking-tighter">MG<span class="text-blue-500">S</span>.</span>
+            <div class="space-x-8 text-sm font-medium text-gray-400">
+                <a href="#about" class="hover:text-white transition">About</a>
+                <a href="#projects" class="hover:text-white transition">Projects</a>
+                <a href="#experience" class="hover:text-white transition">Experience</a>
+                <a href="mailto:golamsarwarkafi@gmail.com" class="bg-blue-600 text-white px-4 py-2 rounded-full hover:bg-blue-500 transition">Contact</a>
+            </div>
+        </div>
+    </nav>
+
+    <section id="about" class="pt-32 pb-20 px-6">
+        <div class="max-w-6xl mx-auto grid md:grid-cols-2 gap-12 items-center">
+            <div>
+                <h1 class="text-5xl md:text-7xl font-extrabold mb-6 tracking-tight">
+                    Transforming Data into <span class="gradient-text">Impact.</span>
+                </h1>
+                <p class="text-xl text-gray-400 mb-8 max-w-lg">
+                    Data Analyst at **BrainStation 23**. Specialized in building ETL pipelines and interactive BI solutions that drive business growth.
+                </p>
+                <div class="flex gap-4">
+                    <a href="#projects" class="px-8 py-3 bg-white text-black font-bold rounded-lg hover:bg-gray-200 transition">View My Work</a>
+                    <a href="https://github.com/Md-GolamSarwar-E-Azam" class="px-8 py-3 border border-gray-700 rounded-lg hover:bg-gray-900 transition">GitHub</a>
+                </div>
+            </div>
+            <div class="relative">
+                <div class="absolute -inset-1 bg-gradient-to-r from-blue-600 to-emerald-600 rounded-full blur opacity-25"></div>
+                <img src="images/New Image.jpg" alt="Profile" class="relative rounded-full w-64 h-64 md:w-80 md:h-80 object-cover border-4 border-gray-900 mx-auto">
+            </div>
+        </div>
+    </section>
+
+    <section class="py-20 bg-gray-950/50 px-6">
+        <div class="max-w-6xl mx-auto">
+            <h2 class="text-3xl font-bold mb-12">Technical Arsenal</h2>
+            <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
+                <div class="bento-card flex flex-col items-center justify-center text-center">
+                    <i class="fa-solid fa-chart-pie text-3xl text-yellow-400 mb-4"></i>
+                    <h3 class="font-bold">Power BI</h3>
+                    <p class="text-xs text-gray-500 mt-2">DAX, M-Query</p>
+                </div>
+                <div class="bento-card flex flex-col items-center justify-center text-center">
+                    <i class="fa-solid fa-database text-3xl text-blue-400 mb-4"></i>
+                    <h3 class="font-bold">SQL Server</h3>
+                    <p class="text-xs text-gray-500 mt-2">T-SQL, BigQuery</p>
+                </div>
+                <div class="bento-card flex flex-col items-center justify-center text-center">
+                    <i class="fa-brands fa-python text-3xl text-emerald-400 mb-4"></i>
+                    <h3 class="font-bold">Python</h3>
+                    <p class="text-xs text-gray-500 mt-2">Pandas, Scikit-learn</p>
+                </div>
+                <div class="bento-card flex flex-col items-center justify-center text-center">
+                    <i class="fa-solid fa-cloud text-3xl text-purple-400 mb-4"></i>
+                    <h3 class="font-bold">ETL/Cloud</h3>
+                    <p class="text-xs text-gray-500 mt-2">Azure ADF, SSIS</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="projects" class="py-20 px-6">
+        <div class="max-w-6xl mx-auto">
+            <div class="flex justify-between items-end mb-12">
+                <div>
+                    <h2 class="text-3xl font-bold">Featured Projects</h2>
+                    <p class="text-gray-400 mt-2">Solving real-world business problems with data.</p>
+                </div>
+            </div>
+
+            <div class="grid md:grid-cols-2 gap-8">
+                <div class="group bg-gray-900 rounded-3xl overflow-hidden border border-gray-800 hover:border-emerald-500 transition">
+                    <img src="images/Analysis.png" class="w-full h-48 object-cover grayscale group-hover:grayscale-0 transition duration-500">
+                    <div class="p-8">
+                        <span class="text-xs font-bold tracking-widest text-emerald-400 uppercase">Tableau / Healthcare</span>
+                        <h3 class="text-2xl font-bold mt-2 mb-4">Pharmaceutical Market Insight</h3>
+                        <p class="text-gray-400 text-sm mb-6">Interactive dashboard for analyzing prescription trends and market share in Bangladesh.</p>
+                        <div class="flex gap-4">
+                            <a href="#" class="text-white font-bold flex items-center gap-2 hover:underline">Case Study <i class="fa-solid fa-arrow-right text-xs"></i></a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="group bg-gray-900 rounded-3xl overflow-hidden border border-gray-800 hover:border-blue-500 transition">
+                    <img src="images/Crop Recommender System.png" class="w-full h-48 object-cover grayscale group-hover:grayscale-0 transition duration-500">
+                    <div class="p-8">
+                        <span class="text-xs font-bold tracking-widest text-blue-400 uppercase">ML / IoT / Python</span>
+                        <h3 class="text-2xl font-bold mt-2 mb-4">IoT Crop Recommender</h3>
+                        <p class="text-gray-400 text-sm mb-6">Machine learning system providing real-time crop recommendations using sensor data.</p>
+                        <div class="flex gap-4">
+                            <a href="#" class="text-white font-bold flex items-center gap-2 hover:underline">View Code <i class="fa-solid fa-arrow-right text-xs"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="experience" class="py-20 bg-gray-950 px-6">
+        <div class="max-w-4xl mx-auto">
+            <h2 class="text-3xl font-bold mb-12 text-center">Professional Journey</h2>
+            <div class="space-y-12">
+                <div class="relative pl-8 border-l border-gray-800">
+                    <div class="absolute w-4 h-4 bg-blue-500 rounded-full -left-[9px] top-1"></div>
+                    <h3 class="text-xl font-bold text-white">Data Analyst</h3>
+                    <p class="text-blue-400 font-medium">BrainStation 23 | Sep 2025 – Present</p>
+                </div>
+                <div class="relative pl-8 border-l border-gray-800 opacity-60">
+                    <div class="absolute w-4 h-4 bg-gray-600 rounded-full -left-[9px] top-1"></div>
+                    <h3 class="text-xl font-bold text-white">Data Analyst</h3>
+                    <p class="text-gray-400 font-medium">VS One World | Jan 2024 – Oct 2025</p>
+                    <p class="text-sm mt-2">Optimized campaign ROI by 20% for major pharmaceutical clients.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="py-12 border-t border-gray-900 text-center text-gray-500 text-sm">
+        <p>&copy; 2026 Md. Golam Sarwar-E-Azam. Built with Gemini 3.1 Pro.</p>
+    </footer>
+
+</body>
+</html>
