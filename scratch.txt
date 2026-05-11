@@ -1,0 +1,523 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Md. Golam Sarwar-E-Azam â€“ Data Analytics Portfolio</title>
+  <meta name="description" content="Data Analyst & BI Consultant with 4+ years of experience in Power BI, Tableau, SQL, and Machine Learning." />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<!-- ===== NAVBAR ===== -->
+<nav id="navbar">
+  <div class="nav-inner">
+    <a href="#hero" class="nav-logo">GSA<span>.</span></a>
+    <div class="nav-links" id="navLinks">
+      <a href="#about">About</a>
+      <a href="#skills">Skills</a>
+      <a href="#projects">Projects</a>
+      <a href="#education">Education</a>
+      <a href="#experience">Experience</a>
+      <a href="#contact" class="nav-cta">Contact</a>
+    </div>
+    <button class="nav-toggle" id="navToggle" aria-label="Toggle menu">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</nav>
+
+<!-- ===== HERO ===== -->
+<section id="hero">
+  <div class="hero-bg">
+    <div class="hero-orb hero-orb-1"></div>
+    <div class="hero-orb hero-orb-2"></div>
+    <div class="hero-orb hero-orb-3"></div>
+  </div>
+  <div class="hero-content">
+    <div class="hero-photo-wrap">
+      <img src="images/New Image.jpg" alt="Md. Golam Sarwar-E-Azam" class="hero-photo" />
+      <div class="hero-photo-ring"></div>
+    </div>
+    <div class="hero-text">
+      <p class="hero-greeting">Hello, I'm</p>
+      <h1 class="hero-name">Md. Golam Sarwar-E-Azam</h1>
+      <p class="hero-title">Analytics <span class="accent">&amp;</span> BI Consultant</p>
+      <p class="hero-sub">Transforming complex data into actionable insights that drive business growth and optimize performance.</p>
+      <div class="hero-stats">
+        <div class="stat"><span class="stat-num">4+</span><span class="stat-label">Years Experience</span></div>
+        <div class="stat-divider"></div>
+        <div class="stat"><span class="stat-num">30+</span><span class="stat-label">Projects Delivered</span></div>
+        <div class="stat-divider"></div>
+        <div class="stat"><span class="stat-num">4</span><span class="stat-label">Industries Served</span></div>
+      </div>
+      <div class="hero-actions">
+        <a href="#projects" class="btn btn-primary">View My Work</a>
+        <a href="mailto:golamsarwarkafi@gmail.com" class="btn btn-outline">Get In Touch</a>
+      </div>
+      <div class="hero-social">
+        <a href="https://github.com/Md-GolamSarwar-E-Azam" target="_blank" rel="noopener" aria-label="GitHub" class="social-link">
+          <svg viewBox="0 0 24 24" fill="currentColor" width="20" height="20"><path d="M12 0C5.374 0 0 5.373 0 12c0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23A11.509 11.509 0 0112 5.803c1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576C20.566 21.797 24 17.3 24 12c0-6.627-5.373-12-12-12z"/></svg>
+        </a>
+        <button onclick="copyToClipboard('golamsarwarkafi@gmail.com','Email copied!')" aria-label="Copy Email" class="social-link">
+          <svg viewBox="0 0 24 24" fill="currentColor" width="20" height="20"><path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg>
+        </button>
+        <button onclick="copyToClipboard('+8801714473666','Phone copied!')" aria-label="Copy Phone" class="social-link">
+          <svg viewBox="0 0 24 24" fill="currentColor" width="20" height="20"><path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/></svg>
+        </button>
+        <a href="https://www.linkedin.com/in/golam-sarwar-e-azam" target="_blank" rel="noopener" aria-label="LinkedIn" class="social-link">
+          <svg viewBox="0 0 24 24" fill="currentColor" width="20" height="20"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 01-2.063-2.065 2.064 2.064 0 112.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class="scroll-indicator"><div class="scroll-dot"></div></div>
+</section>
+
+<!-- ===== ABOUT ===== -->
+<section id="about" class="section">
+  <div class="container">
+    <div class="section-header reveal">
+      <span class="section-tag">Who I Am</span>
+      <h2 class="section-title">About Me</h2>
+    </div>
+    <div class="about-grid">
+      <div class="about-text reveal">
+        <p>Results-driven Data Analyst with <strong>4+ years of experience</strong> in the full data lifecycle, from building robust ETL pipelines and data warehouses to designing impactful dashboards.</p>
+        <p>My passion lies in transforming complex data into actionable insights that drive business growth and optimize performance. I have a proven track record of developing and deploying BI solutions that have directly <strong>increased sales, improved campaign ROI</strong>, and enhanced operational efficiency for a variety of key clients.</p>
+        <div class="contact-chips">
+          <button onclick="copyToClipboard('golamsarwarkafi@gmail.com','Email copied!')" class="chip">âœ‰ golamsarwarkafi@gmail.com</button>
+          <button onclick="copyToClipboard('+8801714473666','Phone copied!')" class="chip">ðŸ“± +880 1714 473 666</button>
+          <a href="https://www.linkedin.com/in/golam-sarwar-e-azam" target="_blank" rel="noopener" class="chip">ðŸ”— LinkedIn</a>
+        </div>
+      </div>
+      <div class="about-highlights reveal">
+        <h3>What I Do Best</h3>
+        <div class="highlight-list">
+          <div class="highlight-item">
+            <div class="highlight-icon">ðŸ“Š</div>
+            <div>
+              <strong>Impactful Dashboards &amp; Reports</strong>
+              <p>Building stunning, decision-ready visualizations in Tableau and Power BI</p>
+            </div>
+          </div>
+          <div class="highlight-item">
+            <div class="highlight-icon">âš™ï¸</div>
+            <div>
+              <strong>End-to-End Data Pipelines</strong>
+              <p>Designing and deploying pipelines using SSIS, Azure Data Factory, and Google BigQuery</p>
+            </div>
+          </div>
+          <div class="highlight-item">
+            <div class="highlight-icon">ðŸ—„ï¸</div>
+            <div>
+              <strong>Data Warehousing</strong>
+              <p>Architecting scalable data warehouses and dimensional models for enterprise-grade analytics</p>
+            </div>
+          </div>
+          <div class="highlight-item">
+            <div class="highlight-icon">ðŸ”</div>
+            <div>
+              <strong>Data Extraction &amp; Transformation</strong>
+              <p>Advanced SQL, Python (Pandas, NumPy), and DAX for deep data analysis</p>
+            </div>
+          </div>
+          <div class="highlight-item">
+            <div class="highlight-icon">ðŸš€</div>
+            <div>
+              <strong>Process Optimization</strong>
+              <p>Cutting down manual effort and improving reporting efficiency dramatically</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== SKILLS ===== -->
+<section id="skills" class="section section-alt">
+  <div class="container">
+    <div class="section-header reveal">
+      <span class="section-tag">What I Work With</span>
+      <h2 class="section-title">ðŸ› ï¸ Technical Skills</h2>
+    </div>
+    <div class="skills-grid">
+      <div class="skill-group reveal">
+        <h3 class="skill-group-title">BI &amp; Visualization</h3>
+        <div class="skill-badges">
+          <span class="badge badge-blue">Power BI</span>
+          <span class="badge badge-blue">Tableau</span>
+          <span class="badge badge-blue">Google Looker Studio</span>
+          <span class="badge badge-blue">IBM Cognos</span>
+          <span class="badge badge-blue">Metabase</span>
+          <span class="badge badge-blue">Excel</span>
+        </div>
+      </div>
+      <div class="skill-group reveal">
+        <h3 class="skill-group-title">Database &amp; ETL</h3>
+        <div class="skill-badges">
+          <span class="badge badge-purple">SQL Server</span>
+          <span class="badge badge-purple">IBM Db2</span>
+          <span class="badge badge-purple">PostgreSQL</span>
+          <span class="badge badge-purple">MySQL</span>
+          <span class="badge badge-purple">MariaDB</span>
+          <span class="badge badge-purple">BigQuery</span>
+          <span class="badge badge-purple">SSIS</span>
+          <span class="badge badge-purple">Azure Data Factory</span>
+          <span class="badge badge-purple">Google Dataform</span>
+        </div>
+      </div>
+      <div class="skill-group reveal">
+        <h3 class="skill-group-title">Programming &amp; Scripting</h3>
+        <div class="skill-badges">
+          <span class="badge badge-cyan">Python</span>
+          <span class="badge badge-cyan">Pandas</span>
+          <span class="badge badge-cyan">NumPy</span>
+          <span class="badge badge-cyan">Matplotlib</span>
+          <span class="badge badge-cyan">T-SQL</span>
+          <span class="badge badge-cyan">M-Query</span>
+          <span class="badge badge-cyan">DAX</span>
+        </div>
+      </div>
+      <div class="skill-group reveal">
+        <h3 class="skill-group-title">Other Tools</h3>
+        <div class="skill-badges">
+          <span class="badge badge-green">MS Visio</span>
+          <span class="badge badge-green">SolidWorks</span>
+          <span class="badge badge-green">Premiere Pro</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== PROJECTS ===== -->
+<section id="projects" class="section">
+  <div class="container">
+    <div class="section-header reveal">
+      <span class="section-tag">My Work</span>
+      <h2 class="section-title">ðŸ“‚ Portfolio Projects</h2>
+    </div>
+    <div class="tab-bar reveal">
+      <button class="tab-btn active" data-tab="powerbi">Power BI</button>
+      <button class="tab-btn" data-tab="sql">SQL</button>
+      <button class="tab-btn" data-tab="tableau">Tableau</button>
+      <button class="tab-btn" data-tab="ml">Machine Learning</button>
+    </div>
+    <!-- Power BI -->
+    <div class="tab-content active" id="tab-powerbi">
+      <div class="projects-grid">
+        <div class="project-card reveal">
+          <div class="project-img-wrap"><img src="images/SuperStore_SalesAnalysis.jpg" alt="Superstore Sales" loading="lazy"><div class="project-overlay"><a href="https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/main/Optimize%20Operations%20and%20Drive%20Growth%20in%20a%20Superstore/readme.md" target="_blank" class="overlay-btn">View Details</a></div></div>
+          <div class="project-body">
+            <div class="project-tags"><span class="ptag">Power BI</span><span class="ptag">Sales Analytics</span></div>
+            <h3>Superstore Sales Analysis</h3>
+            <p>Analyzed superstore sales data to gain insights into sales performance, profitability, and customer behavior. Developed a comprehensive dashboard to identify opportunities for improvement and optimize business operations.</p>
+            <div class="project-links"><a href="https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/main/Optimize%20Operations%20and%20Drive%20Growth%20in%20a%20Superstore/readme.md" target="_blank" class="link-btn">ðŸ’» GitHub</a></div>
+          </div>
+        </div>
+        <div class="project-card reveal">
+          <div class="project-img-wrap"><img src="images/CustomerSatisfactionAtAkash.jpg" alt="Customer Satisfaction" loading="lazy"><div class="project-overlay"><a href="https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/main/Improve%20Customer%20Satisfaction%20and%20Loyalty%20at%20Akash%20Digital%20TV/readme.md" target="_blank" class="overlay-btn">View Details</a></div></div>
+          <div class="project-body">
+            <div class="project-tags"><span class="ptag">Power BI</span><span class="ptag">Churn Analysis</span></div>
+            <h3>Customer Satisfaction &amp; Loyalty Analysis</h3>
+            <p>Analyzed Akash Digital TV customer churn data to identify key factors influencing customer retention. Developed targeted retention strategies and optimized subscription packages to improve satisfaction and reduce churn.</p>
+            <div class="project-links"><a href="https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/main/Improve%20Customer%20Satisfaction%20and%20Loyalty%20at%20Akash%20Digital%20TV/readme.md" target="_blank" class="link-btn">ðŸ’» GitHub</a></div>
+          </div>
+        </div>
+        <div class="project-card reveal">
+          <div class="project-img-wrap"><img src="images/Manufacturing_Efficiency.jpg" alt="Manufacturing Efficiency" loading="lazy"><div class="project-overlay"><a href="https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/main/Manufacturing%20Efficiency%20Dashboard%20using%20Power%20BI/readme.md" target="_blank" class="overlay-btn">View Details</a></div></div>
+          <div class="project-body">
+            <div class="project-tags"><span class="ptag">Power BI</span><span class="ptag">Manufacturing</span></div>
+            <h3>Manufacturing Efficiency Analysis</h3>
+            <p>Analyzed RMG factory manufacturing efficiency data to identify bottlenecks, optimize production planning, and reduce non-productive time. Built a dashboard to visualize key metrics and enable data-driven decision-making.</p>
+            <div class="project-links"><a href="https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/main/Manufacturing%20Efficiency%20Dashboard%20using%20Power%20BI/readme.md" target="_blank" class="link-btn">ðŸ’» GitHub</a></div>
+          </div>
+        </div>
+        <div class="project-card reveal">
+          <div class="project-img-wrap"><img src="images/ShipmentStatus.jpg" alt="Shipment Status" loading="lazy"><div class="project-overlay"><a href="https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/main/Shipment%20Status%20Dashboard/readme.md" target="_blank" class="overlay-btn">View Details</a></div></div>
+          <div class="project-body">
+            <div class="project-tags"><span class="ptag">Power BI</span><span class="ptag">Logistics</span></div>
+            <h3>Shipment Status Dashboard</h3>
+            <p>Developed a Shipment Status Dashboard for manufacturing factories to monitor shipment and packing performance against planned quantities, providing real-time visibility into shipment balance and order performance.</p>
+            <div class="project-links"><a href="https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/main/Shipment%20Status%20Dashboard/readme.md" target="_blank" class="link-btn">ðŸ’» GitHub</a></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- SQL -->
+    <div class="tab-content" id="tab-sql">
+      <div class="projects-grid">
+        <div class="project-card reveal">
+          <div class="project-img-wrap"><img src="images/Project Netflix.png" alt="Netflix Content Trends" loading="lazy"><div class="project-overlay"><a href="https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/main/Analyzing%20Netflix%20Content%20Trends/readme.md" target="_blank" class="overlay-btn">View Details</a></div></div>
+          <div class="project-body">
+            <div class="project-tags"><span class="ptag">SQL</span><span class="ptag">Content Analysis</span></div>
+            <h3>Analyzing Netflix Content Trends</h3>
+            <p>Explored Netflix dataset using SQL queries to understand content trends, growth, and popularity. Key insights include country association, top directors, movie vs. TV show balance, and genre growth rates.</p>
+            <div class="project-links"><a href="https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/main/Analyzing%20Netflix%20Content%20Trends/readme.md" target="_blank" class="link-btn">ðŸ’» GitHub</a></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Tableau -->
+    <div class="tab-content" id="tab-tableau">
+      <div class="projects-grid">
+        <div class="project-card reveal">
+          <div class="project-img-wrap"><img src="images/Analysis.png" alt="Pharma Prescription" loading="lazy"><div class="project-overlay"><a href="https://public.tableau.com/views/PrescriptionAnalysis_17555135714300/Status" target="_blank" class="overlay-btn">View Dashboard</a></div></div>
+          <div class="project-body">
+            <div class="project-tags"><span class="ptag">Tableau</span><span class="ptag">Pharma</span></div>
+            <h3>Pharmaceutical Prescription Analysis &amp; Market Overview</h3>
+            <p>Comprehensive interactive dashboard analyzing prescription trends and market dynamics in Bangladesh's pharmaceutical sector. Enables monitoring of market share, brand performance, prescriber behavior, and competitor benchmarking.</p>
+            <div class="project-links"><a href="https://public.tableau.com/views/PrescriptionAnalysis_17555135714300/Status" target="_blank" class="link-btn link-primary">â–¶ Dashboard</a><a href="https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/main/Pharmaceutical%20Prescription%20Analysis%20%26%20Market%20Overview%20Dashboard/README.md" target="_blank" class="link-btn">ðŸ’» GitHub</a></div>
+          </div>
+        </div>
+        <div class="project-card reveal">
+          <div class="project-img-wrap"><img src="images/Supplier analytics.png" alt="Supplier Performance" loading="lazy"><div class="project-overlay"><a href="https://public.tableau.com/views/SupplierAnalysisdashboard/Supplierwiseanalytics" target="_blank" class="overlay-btn">View Dashboard</a></div></div>
+          <div class="project-body">
+            <div class="project-tags"><span class="ptag">Tableau</span><span class="ptag">Supply Chain</span></div>
+            <h3>Supplier Performance &amp; Promotion Analysis</h3>
+            <p>Supplier Profitability and Contribution Dashboard for SuperShop providing clear insights into supplier performance, sales contribution, and profitability. Identifies high-value and underperforming suppliers.</p>
+            <div class="project-links"><a href="https://public.tableau.com/views/SupplierAnalysisdashboard/Supplierwiseanalytics" target="_blank" class="link-btn link-primary">â–¶ Dashboard</a><a href="https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/main/Supplier%20Performance%20%26%20Promotion%20Analysis%20Dashboard/readme.md" target="_blank" class="link-btn">ðŸ’» GitHub</a></div>
+          </div>
+        </div>
+        <div class="project-card reveal">
+          <div class="project-img-wrap"><img src="images/Beverage.png" alt="Beverage Operations" loading="lazy"><div class="project-overlay"><a href="https://public.tableau.com/views/BevarageOperationAnalysis/Summary" target="_blank" class="overlay-btn">View Dashboard</a></div></div>
+          <div class="project-body">
+            <div class="project-tags"><span class="ptag">Tableau</span><span class="ptag">Operations</span></div>
+            <h3>Beverage Company Outlet Operations Analysis</h3>
+            <p>Dashboard focusing on operational performance of beverage sales outlets, tracking trends and KPIs to identify areas of improvement. Enables targeted interventions and operational efficiency optimization.</p>
+            <div class="project-links"><a href="https://public.tableau.com/views/BevarageOperationAnalysis/Summary" target="_blank" class="link-btn link-primary">â–¶ Dashboard</a><a href="https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/main/Bevarage%20Operation%20Analysis%20Dashboard/readme.md" target="_blank" class="link-btn">ðŸ’» GitHub</a></div>
+          </div>
+        </div>
+        <div class="project-card reveal">
+          <div class="project-img-wrap"><img src="images/feed.png" alt="Agro Feed Sales" loading="lazy"><div class="project-overlay"><a href="https://public.tableau.com/views/FeedSales_TargetOverview/Summary" target="_blank" class="overlay-btn">View Dashboard</a></div></div>
+          <div class="project-body">
+            <div class="project-tags"><span class="ptag">Tableau</span><span class="ptag">Agriculture</span></div>
+            <h3>Agro Feed Sales Performance Dashboard</h3>
+            <p>Dashboard for tracking sales outlet and product performance for an agribusiness company. Facilitates actionable insights for sales interventions, distributor segmentation, target monitoring, and pricing optimization.</p>
+            <div class="project-links"><a href="https://public.tableau.com/views/FeedSales_TargetOverview/Summary" target="_blank" class="link-btn link-primary">â–¶ Dashboard</a><a href="https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/main/Agro%20Feed%20%20Sales%20Overview%20Dashboard/readme.md" target="_blank" class="link-btn">ðŸ’» GitHub</a></div>
+          </div>
+        </div>
+        <div class="project-card reveal">
+          <div class="project-img-wrap"><img src="images/SuperShop Sales.png" alt="Supershop Sales" loading="lazy"><div class="project-overlay"><a href="https://public.tableau.com/views/SupershopSalesAnalytics/Summary" target="_blank" class="overlay-btn">View Dashboard</a></div></div>
+          <div class="project-body">
+            <div class="project-tags"><span class="ptag">Tableau</span><span class="ptag">Retail</span></div>
+            <h3>Supershop Sales Analytics Dashboard</h3>
+            <p>Comprehensive SuperShop Sales Analysis Dashboard for monitoring KPIs and trends. Highlights top-performing outlets, underperforming products, and seasonal trends to optimize inventory and marketing strategies.</p>
+            <div class="project-links"><a href="https://public.tableau.com/views/SupershopSalesAnalytics/Summary" target="_blank" class="link-btn link-primary">â–¶ Dashboard</a><a href="https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/main/Supershop%20Sales%20Analytics/readme.md" target="_blank" class="link-btn">ðŸ’» GitHub</a></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- ML -->
+    <div class="tab-content" id="tab-ml">
+      <div class="projects-grid">
+        <div class="project-card reveal">
+          <div class="project-img-wrap"><img src="images/Crop Recommender System.png" alt="Crop Recommender" loading="lazy"><div class="project-overlay"><a href="https://croprecommender.anvil.app/" target="_blank" class="overlay-btn">View App</a></div></div>
+          <div class="project-body">
+            <div class="project-tags"><span class="ptag">Machine Learning</span><span class="ptag">IoT</span></div>
+            <h3>IOT Driven Crop Recommender System</h3>
+            <p>IoT-based crop recommender for precision agriculture. Provides real-time crop recommendations using sensor data, ML, and cloud computing to optimize resource utilization and increase crop productivity.</p>
+            <div class="project-links"><a href="https://croprecommender.anvil.app/" target="_blank" class="link-btn link-primary">â–¶ Web App</a><a href="https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/main/IOT%20Driven%20Crop%20Recommender%20System/readme.md" target="_blank" class="link-btn">ðŸ’» GitHub</a><a href="https://colab.research.google.com/drive/1S74GQ0mPJ7lsJaxWqShPSXyjwYYaUbUw" target="_blank" class="link-btn">ðŸ““ Colab</a></div>
+          </div>
+        </div>
+        <div class="project-card reveal">
+          <div class="project-img-wrap"><img src="images/RainfallPrediction.png" alt="Rainfall Prediction" loading="lazy"><div class="project-overlay"><a href="https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/main/Rainfall%20Prediction%20from%2065%20Years%20of%20Weather%20data%20of%20Bangladesh%20using%20supervised%20machine%20learning%20algorithms/readme.md" target="_blank" class="overlay-btn">View Details</a></div></div>
+          <div class="project-body">
+            <div class="project-tags"><span class="ptag">Machine Learning</span><span class="ptag">Regression</span></div>
+            <h3>Rainfall Prediction â€” 65 Years of Bangladesh Weather Data</h3>
+            <p>Rainfall prediction model using supervised ML. Achieved RÂ² of 0.7644 and RMSE of 99.12 using Polynomial Regression, demonstrating potential for agricultural planning and disaster management.</p>
+            <div class="project-links"><a href="https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/main/Rainfall%20Prediction%20from%2065%20Years%20of%20Weather%20data%20of%20Bangladesh%20using%20supervised%20machine%20learning%20algorithms/readme.md" target="_blank" class="link-btn">ðŸ’» GitHub</a><a href="https://colab.research.google.com/drive/1GMw2AFhALPT_xZA8flXm-0dSD0uExhuY" target="_blank" class="link-btn">ðŸ““ Colab</a></div>
+          </div>
+        </div>
+        <div class="project-card reveal">
+          <div class="project-img-wrap"><img src="images/BankNote.png" alt="Bank Note Detection" loading="lazy"><div class="project-overlay"><a href="https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/main/Banhladeshi%20Bank%20Note%20Detection%20Using%20CNN/readme.md" target="_blank" class="overlay-btn">View Details</a></div></div>
+          <div class="project-body">
+            <div class="project-tags"><span class="ptag">Deep Learning</span><span class="ptag">CNN</span></div>
+            <h3>Bangladeshi Bank Note Detection Using CNN</h3>
+            <p>CNN-based banknote recognition system that accurately classifies Bangladeshi banknotes, even worn-out ones. Achieved 92.67% validation accuracy â€” suitable for ATMs and financial institutions.</p>
+            <div class="project-links"><a href="https://github.com/Md-GolamSarwar-E-Azam/Portfolio-Projects_Description/blob/main/Banhladeshi%20Bank%20Note%20Detection%20Using%20CNN/readme.md" target="_blank" class="link-btn">ðŸ’» GitHub</a><a href="https://colab.research.google.com/drive/1nqbh2Da5HsLAqikExeB5nWm_jV1myqvX?usp=sharing" target="_blank" class="link-btn">ðŸ““ Colab</a></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== EDUCATION ===== -->
+<section id="education" class="section section-alt">
+  <div class="container">
+    <div class="section-header reveal">
+      <span class="section-tag">Academic Background</span>
+      <h2 class="section-title">ðŸŽ“ Education &amp; Certifications</h2>
+    </div>
+    <div class="edu-grid">
+      <div class="edu-card reveal">
+        <div class="edu-icon">ðŸŽ“</div>
+        <div class="edu-degree">M.Sc., Computer Science &amp; Engineering (Data Science)</div>
+        <div class="edu-school">United International University</div>
+        <div class="edu-meta">Ongoing &nbsp;Â·&nbsp; CGPA 3.72</div>
+      </div>
+      <div class="edu-card reveal">
+        <div class="edu-icon">ðŸ›ï¸</div>
+        <div class="edu-degree">B.Sc., Industrial &amp; Production Engineering</div>
+        <div class="edu-school">Ahsanullah University of Science &amp; Technology</div>
+        <div class="edu-meta">2020 &nbsp;Â·&nbsp; CGPA 3.67</div>
+      </div>
+    </div>
+    <div class="cert-grid">
+      <div class="cert-item reveal"><div class="cert-dot"></div><span>IBM Data Analyst Professional Certificate</span></div>
+      <div class="cert-item reveal"><div class="cert-dot"></div><span>Tableau Fundamentals, Intermediate &amp; Advanced (Tableau eLearning)</span></div>
+      <div class="cert-item reveal"><div class="cert-dot"></div><span>Power BI Data Analytics (365datascience.com)</span></div>
+      <div class="cert-item reveal"><div class="cert-dot"></div><span>Machine Learning Specialization (Andrew Ng)</span></div>
+      <div class="cert-item reveal"><div class="cert-dot"></div><span>Databases and SQL for Data Science (Coursera)</span></div>
+      <div class="cert-item reveal"><div class="cert-dot"></div><span>Advanced SQL: Logical Query Processing (LinkedIn)</span></div>
+      <div class="cert-item reveal"><div class="cert-dot"></div><span>Python for Data Science, AI &amp; Development (Coursera)</span></div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== EXPERIENCE ===== -->
+<section id="experience" class="section">
+  <div class="container">
+    <div class="section-header reveal">
+      <span class="section-tag">Career Journey</span>
+      <h2 class="section-title">ðŸ’¼ Work Experience</h2>
+    </div>
+    <div class="timeline">
+      <div class="timeline-item reveal">
+        <div class="exp-header">
+          <div class="exp-role">Senior Data Engineer I</div>
+          <div class="exp-company">Brain Station 23</div>
+          <div class="exp-period">Oct 2024 â€“ Present</div>
+        </div>
+        <ul class="exp-bullets">
+          <li>Lead analytics consultancy for SB7 Group's OGSM (Objectives, Goals, Strategies, Measures) initiative.</li>
+          <li>Design scalable data pipelines and architect KPI and measurement frameworks for organization-wide analytics.</li>
+          <li>Automate reporting systems, strengthen data governance, and enable analytics maturity across the organization.</li>
+          <li>Work closely with leadership to develop a unified analytics ecosystem aligned with strategic business objectives.</li>
+        </ul>
+      </div>
+      <div class="timeline-item reveal">
+        <div class="exp-header">
+          <div class="exp-role">Data Analyst</div>
+          <div class="exp-company">VS One World</div>
+          <div class="exp-period">Jan 2024 â€“ Oct 2024</div>
+        </div>
+        <ul class="exp-bullets">
+          <li>Built Budget &amp; Sales Dashboards to aid strategic financial tracking for a major pharmaceutical client (Square Pharma).</li>
+          <li>Developed a Marketing &amp; Sales Dashboard for Radiant Pharma, which led to a <strong>20% improvement in campaign ROI</strong>.</li>
+          <li>Designed a Sales Performance Dashboard for Paragon Group, contributing to a <strong>10% boost in sales</strong>.</li>
+        </ul>
+      </div>
+      <div class="timeline-item reveal">
+        <div class="exp-header">
+          <div class="exp-role">BI Analyst (Senior Executive)</div>
+          <div class="exp-company">10 Minute School</div>
+          <div class="exp-period">Jun 2023 â€“ Dec 2023</div>
+        </div>
+        <ul class="exp-bullets">
+          <li>Created an Affiliate KPI Tracker Dashboard, <strong>boosting partner-driven sign-ups by 15%</strong>.</li>
+          <li>Built an Academic Dashboard to analyze student behavior, resulting in a <strong>12% improvement in student retention</strong>.</li>
+          <li>Developed key dashboards for FB &amp; Google Ads to optimize digital marketing performance and ROI.</li>
+          <li>Increased course revenue by <strong>10%</strong> through the development of a Product Revenue Dashboard.</li>
+        </ul>
+      </div>
+      <div class="timeline-item reveal">
+        <div class="exp-header">
+          <div class="exp-role">Data Analyst (Executive)</div>
+          <div class="exp-company">Kaz Software</div>
+          <div class="exp-period">Apr 2022 â€“ May 2023</div>
+        </div>
+        <ul class="exp-bullets">
+          <li>Deployed data warehouse and ETL pipelines using <strong>SSIS, ADF, and Azure SQL</strong> for Japan Tobacco International.</li>
+          <li>Built a Power BI dashboard to monitor daily efficiency across <strong>60+ field locations</strong>.</li>
+          <li>Enhanced an In-Market Sales Dashboard, <strong>cutting data refresh time by 40%</strong>.</li>
+        </ul>
+      </div>
+      <div class="timeline-item reveal">
+        <div class="exp-header">
+          <div class="exp-role">Assistant Executive (Data Cell)</div>
+          <div class="exp-company">Epyllion Group</div>
+          <div class="exp-period">Sep 2020 â€“ Nov 2021</div>
+        </div>
+        <ul class="exp-bullets">
+          <li>Contributed to the development of RMG database models and ERP system implementation.</li>
+          <li>Converted <strong>10+ Excel dashboards to Power BI</strong>, reducing manual effort by <strong>~60%</strong>.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== CONTACT ===== -->
+<section id="contact" class="section section-alt">
+  <div class="container">
+    <div class="contact-inner">
+      <div class="section-header reveal">
+        <span class="section-tag">Get In Touch</span>
+        <h2 class="section-title">Let's Work Together</h2>
+      </div>
+      <p class="reveal">Have a project in mind or want to discuss data opportunities? I'd love to hear from you.</p>
+      <div class="contact-links reveal">
+        <button onclick="copyToClipboard('golamsarwarkafi@gmail.com','Email copied!')" class="btn btn-primary">âœ‰ Copy Email</button>
+        <button onclick="copyToClipboard('+8801714473666','Phone copied!')" class="btn btn-outline">ðŸ“± Copy Phone</button>
+        <a href="https://www.linkedin.com/in/golam-sarwar-e-azam" target="_blank" rel="noopener" class="btn btn-outline">ðŸ”— LinkedIn Profile</a>
+        <a href="https://github.com/Md-GolamSarwar-E-Azam" target="_blank" rel="noopener" class="btn btn-outline">â­ GitHub Profile</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== FOOTER ===== -->
+<footer>
+  <p>Â© 2025 Md. Golam Sarwar-E-Azam Â· Data Analyst &amp; BI Consultant</p>
+</footer>
+
+<div id="copy-toast" style="position:fixed;bottom:32px;left:50%;transform:translateX(-50%) translateY(20px);background:#22d3ee;color:#070d1a;padding:10px 24px;border-radius:24px;font-weight:700;font-size:0.9rem;opacity:0;transition:all 0.3s ease;pointer-events:none;z-index:9999;"></div>
+
+<script>
+  // Copy to clipboard with toast
+  function copyToClipboard(text, msg) {
+    navigator.clipboard.writeText(text).then(() => {
+      const toast = document.getElementById('copy-toast');
+      toast.textContent = 'âœ“ ' + msg;
+      toast.style.opacity = '1';
+      toast.style.transform = 'translateX(-50%) translateY(0)';
+      setTimeout(() => {
+        toast.style.opacity = '0';
+        toast.style.transform = 'translateX(-50%) translateY(20px)';
+      }, 2000);
+    });
+  }
+
+  const toggle = document.getElementById('navToggle');
+  const navLinks = document.getElementById('navLinks');
+  toggle.addEventListener('click', () => navLinks.classList.toggle('open'));
+  navLinks.querySelectorAll('a').forEach(a => a.addEventListener('click', () => navLinks.classList.remove('open')));
+
+  document.querySelectorAll('.tab-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const tab = btn.dataset.tab;
+      document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+      document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+      btn.classList.add('active');
+      document.getElementById('tab-' + tab).classList.add('active');
+    });
+  });
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) { entry.target.classList.add('visible'); observer.unobserve(entry.target); }
+    });
+  }, { threshold: 0.1 });
+  document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
+
+  window.addEventListener('scroll', () => {
+    document.getElementById('navbar').style.boxShadow = window.scrollY > 20 ? '0 4px 30px rgba(0,0,0,0.5)' : 'none';
+  });
+</script>
+</body>
+</html>
+
