@@ -1,7 +1,7 @@
 # Md. Golam Sarwar-E-Azam – Data Analytics Portfolio
 
 
-Copyright (c) 2026 [Your Name]. All Rights Reserved.
+Copyright (c) 2026 [Md. Golam Sarwar-E-Azam]. All Rights Reserved.
 
 This software, design, and code are proprietary. 
 No one may copy, distribute, modify, or reuse this project 
